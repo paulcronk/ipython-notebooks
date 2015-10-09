@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <title>xCharts example</title>
+
+  <link rel="stylesheet" href="xcharts.css">
+  <script src="d3.min.js"></script>
+  <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script> -->
+  <script src="xcharts.min.js"></script>
+
+
+</head>
+  <body>
+
+  <figure style="width: 400px; height: 300px;" id="myChart"></figure>
+
+    <script>
+
+      (function () {
+
+        var data = {
+          "xScale": "ordinal",
+          "yScale": "linear",
+          "main": [
+            {
+              "className": ".pizza",
+              "data": [
+                {
+                  "x": "Pepperoni",
+                  "y": 4
+                },
+                {
+                  "x": "Cheese",
+                  "y": 8
+                }
+              ]
+          }
+          ]
+        };
+        var myChart = new xChart('bar', data, '#myChart');
+
+      }());
+
+      </script>
+
+  </body>
+</html>

@@ -1,6 +1,10 @@
 ## EXAMPLES OF SOME COMMON EXCEL FUNCTIONS PERFORMED IN PYTHON ##
 ## adding columns
-## populating columns
+## populating columns with calculated total of other columns
+## adding and fuzzy-matching a column
+## grouping some dataframe
+## formatting the currency
+## tidying the table
 
 import pandas as pd
 import numpy as np
@@ -72,3 +76,35 @@ df_final.head()
 # the apply adds the abbreviations into the correct column
 df_final['abbrev'] = df_final.apply(convert_state, axis=1)
 print df_final
+
+## ADD SOME SUBTOTAL GROUPINGS
+
+# we want to get some monthly subtotals by state using groupby
+df_sub=df_final[["abbrev","Jan","Feb","Mar","total"]].groupby('abbrev').sum()
+print df_sub
+
+## SORT OUT CURRENCY
+
+# use applymap in a function to add currency values to all the cells in the df
+def money(x):
+    return "${:,.0f}".format(x)
+
+formatted_df = df_sub.applymap(money)
+print formatted_df
+
+# add a totals row (as before)
+sum_row=df_sub[["Jan","Feb","Mar","total"]].sum()
+print sum_row
+
+# Transpose the values to columns and format it
+df_sub_sum=pd.DataFrame(data=sum_row).T
+df_sub_sum=df_sub_sum.applymap(money)
+print df_sub_sum
+
+# then append the row to the dataframe
+final_table = formatted_df.append(df_sub_sum)
+print final_table
+
+# the index column for the final row is '0', so need to rename that
+final_table = final_table.rename(index={0:"Total"})
+print final_table
