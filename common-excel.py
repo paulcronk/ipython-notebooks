@@ -4,6 +4,8 @@
 
 import pandas as pd
 import numpy as np
+import difflib
+import fuzzywuzzy
 
 # basic import of excel file into dataframe
 df = pd.read_excel("excel-comp-data.xlsx")
@@ -31,3 +33,42 @@ print df_sum
 # (4) now append that totals row to the bottom
 df_final=df.append(df_sum,ignore_index=True)
 print df_final.tail()
+
+## ADDING SOME FUZZY MATCHING
+
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
+state_to_code = {"VERMONT": "VT", "GEORGIA": "GA", "IOWA": "IA", "Armed Forces Pacific": "AP", "GUAM": "GU",
+                 "KANSAS": "KS", "FLORIDA": "FL", "AMERICAN SAMOA": "AS", "NORTH CAROLINA": "NC", "HAWAII": "HI",
+                 "NEW YORK": "NY", "CALIFORNIA": "CA", "ALABAMA": "AL", "IDAHO": "ID", "FEDERATED STATES OF MICRONESIA": "FM",
+                 "Armed Forces Americas": "AA", "DELAWARE": "DE", "ALASKA": "AK", "ILLINOIS": "IL",
+                 "Armed Forces Africa": "AE", "SOUTH DAKOTA": "SD", "CONNECTICUT": "CT", "MONTANA": "MT", "MASSACHUSETTS": "MA",
+                 "PUERTO RICO": "PR", "Armed Forces Canada": "AE", "NEW HAMPSHIRE": "NH", "MARYLAND": "MD", "NEW MEXICO": "NM",
+                 "MISSISSIPPI": "MS", "TENNESSEE": "TN", "PALAU": "PW", "COLORADO": "CO", "Armed Forces Middle East": "AE",
+                 "NEW JERSEY": "NJ", "UTAH": "UT", "MICHIGAN": "MI", "WEST VIRGINIA": "WV", "WASHINGTON": "WA",
+                 "MINNESOTA": "MN", "OREGON": "OR", "VIRGINIA": "VA", "VIRGIN ISLANDS": "VI", "MARSHALL ISLANDS": "MH",
+                 "WYOMING": "WY", "OHIO": "OH", "SOUTH CAROLINA": "SC", "INDIANA": "IN", "NEVADA": "NV", "LOUISIANA": "LA",
+                 "NORTHERN MARIANA ISLANDS": "MP", "NEBRASKA": "NE", "ARIZONA": "AZ", "WISCONSIN": "WI", "NORTH DAKOTA": "ND",
+                 "Armed Forces Europe": "AE", "PENNSYLVANIA": "PA", "OKLAHOMA": "OK", "KENTUCKY": "KY", "RHODE ISLAND": "RI",
+                 "DISTRICT OF COLUMBIA": "DC", "ARKANSAS": "AR", "MISSOURI": "MO", "TEXAS": "TX", "MAINE": "ME"}
+
+# testing syntax
+print process.extractOne("Minnesotta",choices=state_to_code.keys())
+print process.extractOne("AlaBAMMazzz",choices=state_to_code.keys(),score_cutoff=80)
+
+# We create our function to take the state column and convert it to a valid abbreviation.
+# We use the 75 score_cutoff for this data.
+
+def convert_state(row):
+    abbrev = process.extractOne(row["state"],choices=state_to_code.keys(),score_cutoff=75)
+    if abbrev:
+        return state_to_code[abbrev[0]]
+    return np.nan
+
+# this adds an empty column in position 6
+df_final.insert(6, "abbrev", np.nan)
+df_final.head()
+
+# the apply adds the abbreviations into the correct column
+df_final['abbrev'] = df_final.apply(convert_state, axis=1)
+print df_final
