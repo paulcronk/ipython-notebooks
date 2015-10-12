@@ -66,3 +66,19 @@ print df2["2014"].head()
 # or
 print df2["2014-Dec"].head()
 
+## OTHER STRING FUNCTIONS
+# use str.contains to identify all the skus that contain a certain value
+print df[df['sku'].str.contains('B1')].head()
+
+# We can string queries together and use sort to control how the data is ordered
+print df[(df['sku'].str.contains('B1-531')) & (df['quantity']>40)].sort(columns=['quantity','name'],ascending=[0,1])
+
+## LIST OF UNIQUE ITEMS
+# In pandas, we use the unique function on a column to get the list
+print df["name"].unique()
+
+# If we wanted to include the account number, we could use drop_duplicates
+print df.drop_duplicates(subset=["account number","name"]).head()
+
+# We are obviously pulling in more data than we need and getting some non-useful information, so select only the first and second columns using ix
+print df.drop_duplicates(subset=["account number","name"]).ix[:,[0,1]]
