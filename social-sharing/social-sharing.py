@@ -1,4 +1,4 @@
-## TOP SOCIAL SHARING
+## TOP SOCIAL SHARING script using sharedcount.com
 
 import urllib2
 import json
