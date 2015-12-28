@@ -1,90 +1,1001 @@
-,responseAggregationType,rows
-0,byPage,"{u'keys': [u'2015-11-02', u'workplace pensions'], u'impressions': 2164.0, u'clicks': 520.0, u'ctr': 0.24029574861367836, u'position': 1.0}"
-1,byPage,"{u'keys': [u'2015-11-03', u'workplace pensions'], u'impressions': 1967.0, u'clicks': 497.0, u'ctr': 0.2526690391459075, u'position': 1.0}"
-2,byPage,"{u'keys': [u'2015-11-09', u'workplace pensions'], u'impressions': 1606.0, u'clicks': 497.0, u'ctr': 0.3094645080946451, u'position': 1.0}"
-3,byPage,"{u'keys': [u'2015-11-10', u'workplace pensions'], u'impressions': 1640.0, u'clicks': 481.0, u'ctr': 0.29329268292682925, u'position': 1.0}"
-4,byPage,"{u'keys': [u'2015-11-04', u'workplace pensions'], u'impressions': 1725.0, u'clicks': 471.0, u'ctr': 0.27304347826086955, u'position': 1.0}"
-5,byPage,"{u'keys': [u'2015-11-23', u'workplace pensions'], u'impressions': 1305.0, u'clicks': 430.0, u'ctr': 0.32950191570881227, u'position': 1.0}"
-6,byPage,"{u'keys': [u'2015-11-12', u'workplace pensions'], u'impressions': 1221.0, u'clicks': 426.0, u'ctr': 0.3488943488943489, u'position': 1.0}"
-7,byPage,"{u'keys': [u'2015-11-11', u'workplace pensions'], u'impressions': 1356.0, u'clicks': 422.0, u'ctr': 0.3112094395280236, u'position': 1.0}"
-8,byPage,"{u'keys': [u'2015-11-05', u'workplace pensions'], u'impressions': 1549.0, u'clicks': 421.0, u'ctr': 0.27178825048418337, u'position': 1.0}"
-9,byPage,"{u'keys': [u'2015-11-16', u'workplace pensions'], u'impressions': 1223.0, u'clicks': 414.0, u'ctr': 0.3385118560915781, u'position': 1.0}"
-10,byPage,"{u'keys': [u'2015-11-17', u'workplace pensions'], u'impressions': 1234.0, u'clicks': 407.0, u'ctr': 0.32982171799027554, u'position': 1.0}"
-11,byPage,"{u'keys': [u'2015-11-19', u'workplace pensions'], u'impressions': 1144.0, u'clicks': 388.0, u'ctr': 0.33916083916083917, u'position': 1.0}"
-12,byPage,"{u'keys': [u'2015-11-08', u'workplace pensions'], u'impressions': 1536.0, u'clicks': 383.0, u'ctr': 0.24934895833333334, u'position': 1.0}"
-13,byPage,"{u'keys': [u'2015-11-24', u'workplace pensions'], u'impressions': 1023.0, u'clicks': 356.0, u'ctr': 0.3479960899315738, u'position': 1.0}"
-14,byPage,"{u'keys': [u'2015-11-01', u'workplace pensions'], u'impressions': 1293.0, u'clicks': 332.0, u'ctr': 0.25676720804331016, u'position': 1.0}"
-15,byPage,"{u'keys': [u'2015-11-18', u'workplace pensions'], u'impressions': 1057.0, u'clicks': 332.0, u'ctr': 0.3140964995269631, u'position': 1.0}"
-16,byPage,"{u'keys': [u'2015-11-25', u'workplace pensions'], u'impressions': 1033.0, u'clicks': 317.0, u'ctr': 0.3068731848983543, u'position': 1.0}"
-17,byPage,"{u'keys': [u'2015-11-20', u'workplace pensions'], u'impressions': 932.0, u'clicks': 315.0, u'ctr': 0.33798283261802575, u'position': 1.0}"
-18,byPage,"{u'keys': [u'2015-11-06', u'workplace pensions'], u'impressions': 1117.0, u'clicks': 310.0, u'ctr': 0.2775290957923008, u'position': 1.0}"
-19,byPage,"{u'keys': [u'2015-11-13', u'workplace pensions'], u'impressions': 878.0, u'clicks': 305.0, u'ctr': 0.34738041002277903, u'position': 1.0}"
-20,byPage,"{u'keys': [u'2015-11-26', u'workplace pensions'], u'impressions': 924.0, u'clicks': 279.0, u'ctr': 0.30194805194805197, u'position': 1.0}"
-21,byPage,"{u'keys': [u'2015-11-30', u'workplace pensions'], u'impressions': 679.0, u'clicks': 245.0, u'ctr': 0.36082474226804123, u'position': 1.0}"
-22,byPage,"{u'keys': [u'2015-11-07', u'workplace pensions'], u'impressions': 873.0, u'clicks': 241.0, u'ctr': 0.27605956471935855, u'position': 1.0}"
-23,byPage,"{u'keys': [u'2015-11-15', u'workplace pensions'], u'impressions': 709.0, u'clicks': 219.0, u'ctr': 0.30888575458392104, u'position': 1.0}"
-24,byPage,"{u'keys': [u'2015-11-26', u'workplace pension'], u'impressions': 588.0, u'clicks': 209.0, u'ctr': 0.3554421768707483, u'position': 1.0}"
-25,byPage,"{u'keys': [u'2015-11-22', u'workplace pensions'], u'impressions': 697.0, u'clicks': 197.0, u'ctr': 0.28263988522238165, u'position': 1.0}"
-26,byPage,"{u'keys': [u'2015-11-27', u'workplace pensions'], u'impressions': 547.0, u'clicks': 185.0, u'ctr': 0.3382084095063985, u'position': 1.0}"
-27,byPage,"{u'keys': [u'2015-11-19', u'workplace pension'], u'impressions': 566.0, u'clicks': 183.0, u'ctr': 0.32332155477031804, u'position': 1.0}"
-28,byPage,"{u'keys': [u'2015-11-25', u'workplace pension'], u'impressions': 594.0, u'clicks': 183.0, u'ctr': 0.30808080808080807, u'position': 1.0}"
-29,byPage,"{u'keys': [u'2015-11-23', u'workplace pension'], u'impressions': 627.0, u'clicks': 182.0, u'ctr': 0.2902711323763955, u'position': 1.0}"
-30,byPage,"{u'keys': [u'2015-11-24', u'workplace pension'], u'impressions': 539.0, u'clicks': 168.0, u'ctr': 0.3116883116883117, u'position': 1.0}"
-31,byPage,"{u'keys': [u'2015-11-21', u'workplace pensions'], u'impressions': 582.0, u'clicks': 167.0, u'ctr': 0.2869415807560137, u'position': 1.0}"
-32,byPage,"{u'keys': [u'2015-11-20', u'workplace pension'], u'impressions': 525.0, u'clicks': 164.0, u'ctr': 0.31238095238095237, u'position': 1.0}"
-33,byPage,"{u'keys': [u'2015-11-28', u'workplace pensions'], u'impressions': 510.0, u'clicks': 157.0, u'ctr': 0.307843137254902, u'position': 1.0}"
-34,byPage,"{u'keys': [u'2015-11-02', u'workplace pension'], u'impressions': 623.0, u'clicks': 152.0, u'ctr': 0.24398073836276082, u'position': 1.0}"
-35,byPage,"{u'keys': [u'2015-11-30', u'workplace pension'], u'impressions': 396.0, u'clicks': 147.0, u'ctr': 0.3712121212121212, u'position': 1.0}"
-36,byPage,"{u'keys': [u'2015-11-03', u'workplace pension'], u'impressions': 533.0, u'clicks': 139.0, u'ctr': 0.2607879924953096, u'position': 1.0}"
-37,byPage,"{u'keys': [u'2015-11-09', u'workplace pension'], u'impressions': 469.0, u'clicks': 138.0, u'ctr': 0.2942430703624733, u'position': 1.0}"
-38,byPage,"{u'keys': [u'2015-11-11', u'workplace pension'], u'impressions': 472.0, u'clicks': 137.0, u'ctr': 0.2902542372881356, u'position': 1.0}"
-39,byPage,"{u'keys': [u'2015-11-29', u'workplace pensions'], u'impressions': 488.0, u'clicks': 135.0, u'ctr': 0.2766393442622951, u'position': 1.0}"
-40,byPage,"{u'keys': [u'2015-11-12', u'workplace pension'], u'impressions': 440.0, u'clicks': 131.0, u'ctr': 0.29772727272727273, u'position': 1.0}"
-41,byPage,"{u'keys': [u'2015-11-14', u'workplace pensions'], u'impressions': 446.0, u'clicks': 131.0, u'ctr': 0.2937219730941704, u'position': 1.0}"
-42,byPage,"{u'keys': [u'2015-11-17', u'workplace pension'], u'impressions': 416.0, u'clicks': 130.0, u'ctr': 0.3125, u'position': 1.0}"
-43,byPage,"{u'keys': [u'2015-11-16', u'workplace pension'], u'impressions': 430.0, u'clicks': 127.0, u'ctr': 0.29534883720930233, u'position': 1.0}"
-44,byPage,"{u'keys': [u'2015-11-08', u'workplace pension'], u'impressions': 476.0, u'clicks': 125.0, u'ctr': 0.26260504201680673, u'position': 1.0}"
-45,byPage,"{u'keys': [u'2015-11-05', u'workplace pension'], u'impressions': 433.0, u'clicks': 125.0, u'ctr': 0.28868360277136257, u'position': 1.0}"
-46,byPage,"{u'keys': [u'2015-11-01', u'workplace pension'], u'impressions': 499.0, u'clicks': 124.0, u'ctr': 0.24849699398797595, u'position': 1.0}"
-47,byPage,"{u'keys': [u'2015-11-04', u'workplace pension'], u'impressions': 430.0, u'clicks': 121.0, u'ctr': 0.2813953488372093, u'position': 1.0}"
-48,byPage,"{u'keys': [u'2015-11-27', u'workplace pension'], u'impressions': 384.0, u'clicks': 118.0, u'ctr': 0.3072916666666667, u'position': 1.0}"
-49,byPage,"{u'keys': [u'2015-11-22', u'workplace pension'], u'impressions': 419.0, u'clicks': 115.0, u'ctr': 0.2744630071599045, u'position': 1.0}"
-50,byPage,"{u'keys': [u'2015-11-28', u'workplace pension'], u'impressions': 404.0, u'clicks': 115.0, u'ctr': 0.28465346534653463, u'position': 1.0}"
-51,byPage,"{u'keys': [u'2015-11-10', u'workplace pension'], u'impressions': 427.0, u'clicks': 115.0, u'ctr': 0.2693208430913349, u'position': 1.0}"
-52,byPage,"{u'keys': [u'2015-11-18', u'workplace pension'], u'impressions': 315.0, u'clicks': 111.0, u'ctr': 0.3523809523809524, u'position': 1.0}"
-53,byPage,"{u'keys': [u'2015-11-29', u'workplace pension'], u'impressions': 389.0, u'clicks': 110.0, u'ctr': 0.2827763496143959, u'position': 1.0}"
-54,byPage,"{u'keys': [u'2015-11-15', u'workplace pension'], u'impressions': 378.0, u'clicks': 100.0, u'ctr': 0.26455026455026454, u'position': 1.0}"
-55,byPage,"{u'keys': [u'2015-11-21', u'workplace pension'], u'impressions': 331.0, u'clicks': 98.0, u'ctr': 0.29607250755287007, u'position': 1.0}"
-56,byPage,"{u'keys': [u'2015-11-07', u'workplace pension'], u'impressions': 351.0, u'clicks': 83.0, u'ctr': 0.23646723646723647, u'position': 1.0}"
-57,byPage,"{u'keys': [u'2015-11-13', u'workplace pension'], u'impressions': 256.0, u'clicks': 73.0, u'ctr': 0.28515625, u'position': 1.0}"
-58,byPage,"{u'keys': [u'2015-11-06', u'workplace pension'], u'impressions': 282.0, u'clicks': 72.0, u'ctr': 0.2553191489361702, u'position': 1.0}"
-59,byPage,"{u'keys': [u'2015-11-14', u'workplace pension'], u'impressions': 208.0, u'clicks': 51.0, u'ctr': 0.24519230769230768, u'position': 1.0}"
-60,byPage,"{u'keys': [u'2015-11-09', u'workplace pension scheme'], u'impressions': 82.0, u'clicks': 28.0, u'ctr': 0.34146341463414637, u'position': 1.0}"
-61,byPage,"{u'keys': [u'2015-11-10', u'workplace pension scheme'], u'impressions': 63.0, u'clicks': 26.0, u'ctr': 0.4126984126984127, u'position': 1.0}"
-62,byPage,"{u'keys': [u'2015-11-02', u'workplace pension scheme'], u'impressions': 91.0, u'clicks': 24.0, u'ctr': 0.26373626373626374, u'position': 1.0}"
-63,byPage,"{u'keys': [u'2015-11-05', u'workplace pension scheme'], u'impressions': 69.0, u'clicks': 23.0, u'ctr': 0.3333333333333333, u'position': 1.0}"
-64,byPage,"{u'keys': [u'2015-11-08', u'workplace pension scheme'], u'impressions': 60.0, u'clicks': 22.0, u'ctr': 0.36666666666666664, u'position': 1.0}"
-65,byPage,"{u'keys': [u'2015-11-03', u'workplace pension scheme'], u'impressions': 54.0, u'clicks': 16.0, u'ctr': 0.2962962962962963, u'position': 1.0}"
-66,byPage,"{u'keys': [u'2015-11-23', u'workplace pension scheme'], u'impressions': 31.0, u'clicks': 15.0, u'ctr': 0.4838709677419355, u'position': 1.0}"
-67,byPage,"{u'keys': [u'2015-11-04', u'workplace pension scheme'], u'impressions': 49.0, u'clicks': 14.0, u'ctr': 0.2857142857142857, u'position': 1.0}"
-68,byPage,"{u'keys': [u'2015-11-12', u'workplace pension scheme'], u'impressions': 32.0, u'clicks': 14.0, u'ctr': 0.4375, u'position': 1.0}"
-69,byPage,"{u'keys': [u'2015-11-24', u'workplace pension scheme'], u'impressions': 30.0, u'clicks': 13.0, u'ctr': 0.43333333333333335, u'position': 1.0}"
-70,byPage,"{u'keys': [u'2015-11-06', u'workplace pension scheme'], u'impressions': 31.0, u'clicks': 12.0, u'ctr': 0.3870967741935484, u'position': 1.0}"
-71,byPage,"{u'keys': [u'2015-11-16', u'workplace pension scheme'], u'impressions': 26.0, u'clicks': 12.0, u'ctr': 0.46153846153846156, u'position': 1.0}"
-72,byPage,"{u'keys': [u'2015-11-07', u'workplace pension scheme'], u'impressions': 37.0, u'clicks': 10.0, u'ctr': 0.2702702702702703, u'position': 1.0}"
-73,byPage,"{u'keys': [u'2015-11-11', u'workplace pension scheme'], u'impressions': 22.0, u'clicks': 10.0, u'ctr': 0.45454545454545453, u'position': 1.0}"
-74,byPage,"{u'keys': [u'2015-11-13', u'workplace pension scheme'], u'impressions': 22.0, u'clicks': 10.0, u'ctr': 0.45454545454545453, u'position': 1.0}"
-75,byPage,"{u'keys': [u'2015-11-25', u'workplace pension scheme'], u'impressions': 22.0, u'clicks': 9.0, u'ctr': 0.4090909090909091, u'position': 1.0}"
-76,byPage,"{u'keys': [u'2015-11-19', u'workplace pension scheme'], u'impressions': 25.0, u'clicks': 9.0, u'ctr': 0.36, u'position': 1.0}"
-77,byPage,"{u'keys': [u'2015-11-17', u'workplace pension scheme'], u'impressions': 26.0, u'clicks': 8.0, u'ctr': 0.3076923076923077, u'position': 1.0}"
-78,byPage,"{u'keys': [u'2015-11-01', u'workplace pension scheme'], u'impressions': 25.0, u'clicks': 8.0, u'ctr': 0.32, u'position': 1.0}"
-79,byPage,"{u'keys': [u'2015-11-30', u'workplace pension scheme'], u'impressions': 20.0, u'clicks': 7.0, u'ctr': 0.35, u'position': 1.0}"
-80,byPage,"{u'keys': [u'2015-11-02', u'workplace pensions uk'], u'impressions': 15.0, u'clicks': 7.0, u'ctr': 0.4666666666666667, u'position': 1.0}"
-81,byPage,"{u'keys': [u'2015-11-16', u'workplace pension law'], u'impressions': 31.0, u'clicks': 6.0, u'ctr': 0.1935483870967742, u'position': 2.0}"
-82,byPage,"{u'keys': [u'2015-11-27', u'workplace pension scheme'], u'impressions': 14.0, u'clicks': 6.0, u'ctr': 0.42857142857142855, u'position': 1.0}"
-83,byPage,"{u'keys': [u'2015-11-12', u'workplace pension law'], u'impressions': 34.0, u'clicks': 6.0, u'ctr': 0.17647058823529413, u'position': 2.0}"
-84,byPage,"{u'keys': [u'2015-11-20', u'workplace pensions uk'], u'impressions': 6.0, u'clicks': 5.0, u'ctr': 0.8333333333333334, u'position': 1.0}"
-85,byPage,"{u'keys': [u'2015-11-26', u'workplace pension scheme'], u'impressions': 18.0, u'clicks': 5.0, u'ctr': 0.2777777777777778, u'position': 1.0}"
-86,byPage,"{u'keys': [u'2015-11-15', u'workplace pension law'], u'impressions': 22.0, u'clicks': 4.0, u'ctr': 0.18181818181818182, u'position': 2.0}"
-87,byPage,"{u'keys': [u'2015-11-08', u'when does workplace pensions start'], u'impressions': 7.0, u'clicks': 4.0, u'ctr': 0.5714285714285714, u'position': 1.0}"
-88,byPage,"{u'keys': [u'2015-11-21', u'workplace pension uk'], u'impressions': 3.0, u'clicks': 3.0, u'ctr': 1.0, u'position': 1.0}"
+,"date,query",clicks,impressions,ctr,position
+0,"2015-11-25,pension calculator",1019.0,2267.0,0.449492721659,1.97970886634
+1,"2015-11-25,state pension age",942.0,1717.0,0.548631333722,1.0
+2,"2015-11-23,state pension age",889.0,1529.0,0.581425768476,1.0
+3,"2015-11-05,state pension age",663.0,1044.0,0.635057471264,1.0
+4,"2015-11-24,state pension age",660.0,1169.0,0.564585115483,1.0
+5,"2015-11-02,state pension age",649.0,1037.0,0.625843780135,1.0
+6,"2015-11-03,state pension age",647.0,1041.0,0.621517771374,1.0
+7,"2015-11-26,state pension age",646.0,1135.0,0.569162995595,1.0
+8,"2015-11-11,state pension age",634.0,1034.0,0.613152804642,1.0
+9,"2015-11-26,pension calculator",630.0,1620.0,0.388888888889,1.96851851852
+10,"2015-11-20,state pension age",612.0,1053.0,0.581196581197,1.0
+11,"2015-11-30,state pension age",608.0,1030.0,0.590291262136,1.0
+12,"2015-11-19,state pension age",604.0,997.0,0.605817452357,1.0
+13,"2015-11-04,state pension age",603.0,1000.0,0.603,1.0
+14,"2015-11-23,pension calculator",593.0,1578.0,0.375792141952,1.97972116603
+15,"2015-11-12,state pension age",588.0,950.0,0.618947368421,1.0
+16,"2015-11-09,state pension age",583.0,979.0,0.595505617978,1.0
+17,"2015-11-10,state pension age",573.0,967.0,0.592554291624,1.0
+18,"2015-11-18,state pension age",557.0,950.0,0.586315789474,1.0
+19,"2015-11-17,state pension age",550.0,922.0,0.596529284165,1.0
+20,"2015-11-21,pension calculator",546.0,1305.0,0.418390804598,1.9754789272
+21,"2015-11-16,state pension age",522.0,881.0,0.592508513053,1.0
+22,"2015-11-21,state pension",513.0,4857.0,0.105620753552,3.34568663784
+23,"2015-11-13,state pension age",489.0,827.0,0.591293833132,1.0
+24,"2015-11-11,pension calculator",472.0,1343.0,0.351451973194,1.98064035741
+25,"2015-11-06,state pension age",468.0,811.0,0.577065351418,1.0
+26,"2015-11-21,state pension age",466.0,924.0,0.504329004329,1.0
+27,"2015-11-04,pension calculator",463.0,1436.0,0.322423398329,2.0
+28,"2015-11-30,pension calculator",462.0,1390.0,0.332374100719,1.98633093525
+29,"2015-11-05,pension calculator",448.0,1482.0,0.302294197031,1.98852901484
+30,"2015-11-03,pension calculator",446.0,1483.0,0.300741739717,1.98044504383
+31,"2015-11-27,state pension age",443.0,771.0,0.57457846952,1.0
+32,"2015-11-02,pension calculator",428.0,1361.0,0.314474650992,1.98016164585
+33,"2015-11-09,pension calculator",416.0,1389.0,0.299496040317,1.98632109431
+34,"2015-11-06,pension calculator",414.0,1204.0,0.343853820598,1.98671096346
+35,"2015-11-24,pension calculator",414.0,1265.0,0.327272727273,1.98339920949
+36,"2015-11-25,state pension",404.0,5921.0,0.0682317176153,3.58165850363
+37,"2015-11-12,pension calculator",396.0,1262.0,0.313787638669,1.97543581616
+38,"2015-11-20,pension calculator",386.0,1166.0,0.331046312178,2.0
+39,"2015-11-10,pension calculator",384.0,1242.0,0.309178743961,1.98389694042
+40,"2015-11-19,pension calculator",377.0,1270.0,0.296850393701,1.98661417323
+41,"2015-11-22,pension calculator",373.0,1104.0,0.337862318841,1.97644927536
+42,"2015-11-18,pension calculator",365.0,1189.0,0.306980656013,1.97140454163
+43,"2015-11-17,pension calculator",360.0,1188.0,0.30303030303,1.97558922559
+44,"2015-11-01,pension calculator",358.0,1020.0,0.350980392157,1.99411764706
+45,"2015-11-22,state pension age",356.0,685.0,0.519708029197,1.0
+46,"2015-11-23,state pension",345.0,3097.0,0.11139812722,3.54698094931
+47,"2015-11-16,pension calculator",340.0,1162.0,0.292598967298,1.96471600688
+48,"2015-11-25,state pension calculator",328.0,476.0,0.689075630252,1.0
+49,"2015-11-17,state pension",325.0,1902.0,0.17087276551,2.0
+50,"2015-11-30,state pension",320.0,2333.0,0.137162451779,3.0
+51,"2015-11-20,state pension",316.0,2564.0,0.123244929797,2.28315132605
+52,"2015-11-25,state pension forecast",312.0,1462.0,0.21340629275,2.0
+53,"2015-11-29,pension calculator",311.0,871.0,0.357060849598,1.99311136625
+54,"2015-11-16,state pension",300.0,1778.0,0.168728908886,2.0
+55,"2015-11-11,state pension",294.0,1803.0,0.16306156406,2.0
+56,"2015-11-18,state pension",294.0,1714.0,0.171528588098,2.01516919487
+57,"2015-11-29,state pension age",294.0,552.0,0.532608695652,1.0
+58,"2015-11-08,pension calculator",286.0,944.0,0.302966101695,1.98199152542
+59,"2015-11-13,pension calculator",279.0,967.0,0.288521199586,1.98448810755
+60,"2015-11-26,state pension",278.0,3077.0,0.0903477413065,4.0
+61,"2015-11-19,state pension",275.0,1903.0,0.14450867052,2.0
+62,"2015-11-27,pension calculator",275.0,902.0,0.30487804878,1.98558758315
+63,"2015-11-23,state pension calculator",271.0,367.0,0.738419618529,1.0
+64,"2015-11-24,state pension",271.0,2434.0,0.11133935908,2.64872637634
+65,"2015-11-12,state pension",263.0,1697.0,0.154979375368,2.07837360047
+66,"2015-11-22,state pension",261.0,2524.0,0.103407290016,4.0
+67,"2015-11-03,state pension",259.0,1732.0,0.149538106236,2.0
+68,"2015-11-07,pension calculator",255.0,940.0,0.271276595745,1.9829787234
+69,"2015-11-04,state pension",254.0,1696.0,0.149764150943,2.0
+70,"2015-11-10,state pension",252.0,1707.0,0.14762741652,2.0
+71,"2015-11-07,state pension age",250.0,481.0,0.519750519751,1.0
+72,"2015-11-15,pension calculator",248.0,948.0,0.261603375527,1.96308016878
+73,"2015-11-05,state pension",247.0,1771.0,0.139469226426,2.0
+74,"2015-11-15,state pension age",241.0,470.0,0.512765957447,1.0
+75,"2015-11-02,state pension",236.0,1778.0,0.132733408324,2.1057367829
+76,"2015-11-09,state pension",236.0,1796.0,0.13140311804,2.0
+77,"2015-11-26,state pension calculator",232.0,326.0,0.711656441718,1.0
+78,"2015-11-29,state pension",223.0,1529.0,0.145846958797,2.60627861347
+79,"2015-11-08,state pension age",222.0,418.0,0.531100478469,1.0
+80,"2015-11-28,pension calculator",221.0,690.0,0.320289855072,1.99130434783
+81,"2015-11-28,state pension age",220.0,433.0,0.508083140878,1.0
+82,"2015-11-23,state pension forecast",220.0,1090.0,0.201834862385,2.0
+83,"2015-11-21,state pension calculator",218.0,300.0,0.726666666667,1.0
+84,"2015-11-14,state pension age",217.0,421.0,0.515439429929,1.0
+85,"2015-11-01,state pension age",214.0,442.0,0.484162895928,1.0
+86,"2015-11-04,state pension calculator",211.0,261.0,0.808429118774,1.0
+87,"2015-11-21,state pension forecast",204.0,910.0,0.224175824176,2.0
+88,"2015-11-11,state pension calculator",201.0,274.0,0.733576642336,1.0
+89,"2015-11-24,state pension calculator",200.0,274.0,0.729927007299,1.0
+90,"2015-11-26,state pension forecast",199.0,1001.0,0.198801198801,2.0
+91,"2015-11-27,state pension",197.0,1743.0,0.113023522662,3.37464142283
+92,"2015-11-03,state pension calculator",197.0,263.0,0.749049429658,1.0
+93,"2015-11-05,state pension calculator",197.0,268.0,0.735074626866,1.0
+94,"2015-11-30,state pension calculator",196.0,255.0,0.76862745098,1.0
+95,"2015-11-12,state pension calculator",192.0,287.0,0.668989547038,1.0
+96,"2015-11-06,state pension",192.0,1378.0,0.139332365747,2.0
+97,"2015-11-14,pension calculator",191.0,705.0,0.270921985816,1.99574468085
+98,"2015-11-17,state pension calculator",190.0,235.0,0.808510638298,1.0
+99,"2015-11-02,state pension calculator",186.0,256.0,0.7265625,1.0
+100,"2015-11-30,www.gov.uk/yourstatepension",183.0,746.0,0.245308310992,2.0
+101,"2015-11-09,state pension calculator",177.0,232.0,0.762931034483,1.0
+102,"2015-11-19,state pension calculator",176.0,233.0,0.755364806867,1.0
+103,"2015-11-13,state pension",176.0,1560.0,0.112820512821,2.94679487179
+104,"2015-11-18,state pension calculator",173.0,233.0,0.742489270386,1.0
+105,"2015-11-30,state pension forecast",166.0,824.0,0.20145631068,2.0
+106,"2015-11-12,state pension forecast",165.0,789.0,0.209125475285,2.0
+107,"2015-11-16,state pension calculator",165.0,212.0,0.778301886792,1.0
+108,"2015-11-14,state pension",162.0,1110.0,0.145945945946,2.0
+109,"2015-11-10,state pension calculator",161.0,205.0,0.785365853659,1.0
+110,"2015-11-13,state pension calculator",161.0,209.0,0.77033492823,1.0
+111,"2015-11-06,state pension calculator",160.0,208.0,0.769230769231,1.0
+112,"2015-11-20,state pension calculator",159.0,222.0,0.716216216216,1.0
+113,"2015-11-01,state pension",157.0,1115.0,0.140807174888,2.0
+114,"2015-11-24,state pension forecast",154.0,829.0,0.185765983112,2.0
+115,"2015-11-07,state pension",153.0,1121.0,0.136485280999,2.0
+116,"2015-11-02,state pension forecast",148.0,790.0,0.187341772152,2.0
+117,"2015-11-11,state pension age calculator",148.0,175.0,0.845714285714,1.0
+118,"2015-11-11,state pension forecast",147.0,778.0,0.188946015424,2.0
+119,"2015-11-08,state pension",146.0,1113.0,0.131176999102,2.0
+120,"2015-11-27,state pension calculator",145.0,189.0,0.767195767196,1.0
+121,"2015-11-10,state pension forecast",145.0,683.0,0.212298682284,2.0
+122,"2015-11-25,state pension age calculator",143.0,177.0,0.80790960452,1.0
+123,"2015-11-15,state pension",142.0,1054.0,0.134724857685,2.0
+124,"2015-11-28,state pension",141.0,1322.0,0.106656580938,2.74357034796
+125,"2015-11-03,state pension forecast",140.0,786.0,0.178117048346,2.0
+126,"2015-11-18,state pension age calculator",140.0,157.0,0.891719745223,1.0
+127,"2015-11-05,state pension forecast",140.0,787.0,0.177890724269,2.0
+128,"2015-11-16,state pension age calculator",136.0,147.0,0.925170068027,1.0
+129,"2015-11-16,state pension forecast",135.0,599.0,0.225375626043,2.0
+130,"2015-11-02,state pension age calculator",133.0,147.0,0.904761904762,1.0
+131,"2015-11-10,state pension age calculator",133.0,161.0,0.826086956522,1.0
+132,"2015-11-05,state pension age calculator",133.0,148.0,0.898648648649,1.0
+133,"2015-11-12,state pension age calculator",133.0,156.0,0.852564102564,1.0
+134,"2015-11-04,state pension forecast",131.0,697.0,0.187948350072,2.0
+135,"2015-11-19,state pension forecast",130.0,662.0,0.196374622356,2.0
+136,"2015-11-23,state pension age calculator",128.0,158.0,0.810126582278,1.0
+137,"2015-11-24,state pension age calculator",128.0,147.0,0.87074829932,1.0
+138,"2015-11-26,state pension age calculator",126.0,152.0,0.828947368421,1.0
+139,"2015-11-17,state pension age calculator",124.0,146.0,0.849315068493,1.0
+140,"2015-11-18,state pension forecast",119.0,654.0,0.181957186544,2.0
+141,"2015-11-22,state pension forecast",115.0,651.0,0.176651305684,2.0
+142,"2015-11-22,state pension calculator",114.0,179.0,0.63687150838,1.0
+143,"2015-11-09,state pension forecast",113.0,661.0,0.170953101362,2.0
+144,"2015-11-20,state pension forecast",112.0,596.0,0.187919463087,2.0
+145,"2015-11-27,state pension age calculator",111.0,124.0,0.895161290323,1.0
+146,"2015-11-19,state pension age calculator",111.0,128.0,0.8671875,1.0
+147,"2015-11-09,state pension age calculator",110.0,125.0,0.88,1.0
+148,"2015-11-04,state pension age calculator",110.0,124.0,0.887096774194,1.0
+149,"2015-11-25,pension age",110.0,327.0,0.336391437309,2.0
+150,"2015-11-17,state pension forecast",109.0,587.0,0.185689948893,2.0
+151,"2015-11-30,state pension age calculator",108.0,127.0,0.850393700787,1.0
+152,"2015-11-13,state pension forecast",107.0,579.0,0.184801381693,2.0
+153,"2015-11-23,pension age",106.0,349.0,0.303724928367,2.0
+154,"2015-11-29,www.gov.uk/yourstatepension",105.0,465.0,0.225806451613,2.0
+155,"2015-11-21,new state pension calculator",105.0,212.0,0.495283018868,1.0
+156,"2015-11-20,state pension age calculator",103.0,114.0,0.90350877193,1.0
+157,"2015-11-27,state pension forecast",102.0,625.0,0.1632,2.0
+158,"2015-11-06,state pension forecast",98.0,582.0,0.168384879725,2.0
+159,"2015-11-08,state pension calculator",96.0,133.0,0.721804511278,1.0
+160,"2015-11-01,state pension calculator",95.0,133.0,0.714285714286,1.0
+161,"2015-11-03,state pension age calculator",94.0,106.0,0.88679245283,1.0
+162,"2015-11-25,new state pension calculator",90.0,234.0,0.384615384615,1.0
+163,"2015-11-06,state pension age calculator",90.0,104.0,0.865384615385,1.0
+164,"2015-11-29,state pension forecast",87.0,504.0,0.172619047619,2.0
+165,"2015-11-25,pensions calculator",86.0,204.0,0.421568627451,2.0
+166,"2015-11-29,state pension calculator",86.0,126.0,0.68253968254,1.0
+167,"2015-11-25,pension forecast",85.0,610.0,0.139344262295,2.0
+168,"2015-11-13,state pension age calculator",85.0,94.0,0.904255319149,1.0
+169,"2015-11-26,pension age",84.0,192.0,0.4375,2.0
+170,"2015-11-23,when will i get my pension",83.0,146.0,0.568493150685,2.0
+171,"2015-11-24,pension age",82.0,216.0,0.37962962963,2.0
+172,"2015-11-09,pension age",81.0,230.0,0.352173913043,2.0
+173,"2015-11-15,state pension forecast",80.0,365.0,0.219178082192,2.0
+174,"2015-11-28,state pension calculator",80.0,120.0,0.666666666667,1.0
+175,"2015-11-05,pension age",80.0,247.0,0.323886639676,2.0
+176,"2015-11-23,new state pension calculator",79.0,156.0,0.50641025641,1.0
+177,"2015-11-21,how much state pension will i receive",76.0,128.0,0.59375,2.0
+178,"2015-11-08,state pension forecast",76.0,405.0,0.187654320988,2.0
+179,"2015-11-04,pension age",76.0,226.0,0.336283185841,2.0
+180,"2015-11-01,state pension forecast",76.0,471.0,0.16135881104,2.0
+181,"2015-11-07,state pension calculator",75.0,105.0,0.714285714286,1.0
+182,"2015-11-11,pension age",74.0,245.0,0.302040816327,2.0
+183,"2015-11-14,state pension calculator",74.0,100.0,0.74,1.0
+184,"2015-11-30,pension age",74.0,198.0,0.373737373737,2.0
+185,"2015-11-25,how much pension will i get when i retire",73.0,116.0,0.629310344828,1.0
+186,"2015-11-25,when will i get my pension",72.0,134.0,0.537313432836,2.0
+187,"2015-11-17,pension age",72.0,214.0,0.336448598131,2.0
+188,"2015-11-12,pension age",70.0,205.0,0.341463414634,2.0
+189,"2015-11-23,when will i get my state pension",70.0,138.0,0.507246376812,2.0
+190,"2015-11-16,pension age",69.0,203.0,0.339901477833,2.0
+191,"2015-11-23,pension age calculator",69.0,91.0,0.758241758242,1.0
+192,"2015-11-26,pension forecast",68.0,438.0,0.155251141553,2.0
+193,"2015-11-15,state pension calculator",68.0,101.0,0.673267326733,1.0
+194,"2015-11-21,pension age",67.0,218.0,0.307339449541,2.0
+195,"2015-11-18,pension age",67.0,183.0,0.366120218579,2.0
+196,"2015-11-07,state pension forecast",65.0,404.0,0.160891089109,2.0
+197,"2015-11-10,pension age",65.0,231.0,0.281385281385,2.0
+198,"2015-11-25,when will i get my state pension",64.0,157.0,0.407643312102,2.0
+199,"2015-11-03,pension age",61.0,193.0,0.316062176166,2.0
+200,"2015-11-26,pension age calculator",61.0,87.0,0.701149425287,1.0
+201,"2015-11-25,when do i get my pension",61.0,101.0,0.60396039604,2.0
+202,"2015-11-28,state pension forecast",59.0,342.0,0.172514619883,2.0
+203,"2015-11-30,pension forecast",59.0,434.0,0.135944700461,2.0
+204,"2015-11-25,pension age calculator",58.0,78.0,0.74358974359,1.0
+205,"2015-11-25,how much state pension will i receive",57.0,131.0,0.435114503817,2.0
+206,"2015-11-05,pension age calculator",57.0,77.0,0.74025974026,1.0
+207,"2015-11-02,pension age",56.0,201.0,0.278606965174,2.0
+208,"2015-11-26,new state pension calculator",56.0,122.0,0.459016393443,1.0
+209,"2015-11-21,my state pension",56.0,110.0,0.509090909091,1.0
+210,"2015-11-07,pension age",55.0,187.0,0.294117647059,2.0
+211,"2015-11-19,pension age",55.0,176.0,0.3125,2.0
+212,"2015-11-20,pension age",54.0,193.0,0.279792746114,2.0
+213,"2015-11-11,pension age calculator",54.0,67.0,0.805970149254,1.0
+214,"2015-11-24,pension forecast",54.0,396.0,0.136363636364,2.0
+215,"2015-11-25,pension age uk",53.0,216.0,0.24537037037,2.0
+216,"2015-11-23,pension age uk",52.0,218.0,0.238532110092,2.0
+217,"2015-11-11,pension forecast",52.0,355.0,0.146478873239,2.0
+218,"2015-11-26,when will i get my pension",51.0,80.0,0.6375,2.0
+219,"2015-11-03,pension age calculator",51.0,60.0,0.85,1.0
+220,"2015-11-14,state pension forecast",50.0,320.0,0.15625,2.0
+221,"2015-11-21,uk state pension",50.0,358.0,0.139664804469,2.0
+222,"2015-11-11,when will i get my pension",50.0,96.0,0.520833333333,2.0
+223,"2015-11-23,when do i get my state pension",50.0,93.0,0.537634408602,2.0
+224,"2015-11-21,pension forecast",49.0,318.0,0.154088050314,2.0
+225,"2015-11-13,pension age",48.0,170.0,0.282352941176,2.0
+226,"2015-11-27,pension age calculator",48.0,59.0,0.813559322034,1.0
+227,"2015-11-21,when will i get my pension",48.0,86.0,0.558139534884,2.0
+228,"2015-11-25,my pension",47.0,84.0,0.559523809524,1.0
+229,"2015-11-19,pension forecast",47.0,286.0,0.164335664336,2.0
+230,"2015-11-05,pension forecast",47.0,317.0,0.148264984227,2.0
+231,"2015-11-23,when do i get my pension",47.0,91.0,0.516483516484,2.0
+232,"2015-11-30,your state pension",47.0,135.0,0.348148148148,1.0
+233,"2015-11-23,www.gov.uk/yourstatepension",47.0,279.0,0.168458781362,2.0
+234,"2015-11-23,pension forecast",46.0,425.0,0.108235294118,2.0
+235,"2015-11-24,pension age calculator",46.0,63.0,0.730158730159,1.0
+236,"2015-11-22,pension age",45.0,149.0,0.302013422819,2.0
+237,"2015-11-20,pension age calculator",45.0,62.0,0.725806451613,1.0
+238,"2015-11-29,pension age",44.0,163.0,0.269938650307,2.0
+239,"2015-11-12,pension age calculator",44.0,59.0,0.745762711864,1.0
+240,"2015-11-27,pension age",44.0,154.0,0.285714285714,2.0
+241,"2015-11-22,new state pension calculator",44.0,96.0,0.458333333333,1.0
+242,"2015-11-30,pensions calculator",44.0,123.0,0.357723577236,2.0
+243,"2015-11-05,when will i get my state pension",44.0,82.0,0.536585365854,2.0
+244,"2015-11-25,how much pension will i get",43.0,112.0,0.383928571429,2.0
+245,"2015-11-25,old age pension",43.0,450.0,0.0955555555556,2.0
+246,"2015-11-28,pension age",43.0,129.0,0.333333333333,2.0
+247,"2015-11-25,uk state pension",43.0,353.0,0.121813031161,2.0
+248,"2015-11-25,how much state pension will i get",43.0,99.0,0.434343434343,2.0
+249,"2015-11-18,government pension",43.0,230.0,0.186956521739,2.0
+250,"2015-11-26,pensions calculator",43.0,91.0,0.472527472527,2.0
+251,"2015-11-30,pension age calculator",42.0,53.0,0.792452830189,1.0
+252,"2015-11-24,when will i get my state pension",42.0,82.0,0.512195121951,2.0
+253,"2015-11-09,pension forecast",42.0,279.0,0.150537634409,2.0
+254,"2015-11-21,when will i get my state pension",42.0,78.0,0.538461538462,2.0
+255,"2015-11-25,my state pension",42.0,118.0,0.35593220339,1.0
+256,"2015-11-29,your state pension",41.0,130.0,0.315384615385,1.0
+257,"2015-11-01,pension age",41.0,149.0,0.275167785235,2.0
+258,"2015-11-26,how much state pension will i receive",41.0,80.0,0.5125,2.0
+259,"2015-11-24,new state pension calculator",40.0,84.0,0.47619047619,1.0
+260,"2015-11-21,when do i get my pension",40.0,73.0,0.547945205479,2.0
+261,"2015-11-25,when do i get my state pension",40.0,76.0,0.526315789474,2.0
+262,"2015-11-06,pension age",40.0,168.0,0.238095238095,2.0
+263,"2015-11-02,pension forecast",40.0,300.0,0.133333333333,2.0
+264,"2015-11-25,government pension",40.0,324.0,0.123456790123,2.0
+265,"2015-11-04,when will i get my state pension",39.0,61.0,0.639344262295,2.0
+266,"2015-11-30,gov.uk/yourstatepension",39.0,139.0,0.280575539568,2.0
+267,"2015-11-23,my state pension",39.0,87.0,0.448275862069,1.0
+268,"2015-11-08,pension age",39.0,167.0,0.233532934132,2.0
+269,"2015-11-15,pension age",39.0,145.0,0.268965517241,2.0
+270,"2015-11-26,how much pension will i get when i retire",39.0,68.0,0.573529411765,1.0
+271,"2015-11-11,when will i get my state pension",39.0,72.0,0.541666666667,2.0
+272,"2015-11-23,government pension",38.0,275.0,0.138181818182,2.0
+273,"2015-11-11,when do i get my pension",38.0,64.0,0.59375,2.0
+274,"2015-11-20,when will i get my state pension",38.0,82.0,0.463414634146,2.0
+275,"2015-11-12,pension forecast",38.0,307.0,0.123778501629,2.0
+276,"2015-11-21,pension age uk",38.0,157.0,0.242038216561,2.0
+277,"2015-11-21,how much pension will i get",37.0,79.0,0.46835443038,2.0
+278,"2015-11-06,pension age calculator",37.0,47.0,0.787234042553,1.0
+279,"2015-11-17,my state pension",37.0,65.0,0.569230769231,1.0
+280,"2015-11-25,how much is state pension",37.0,416.0,0.0889423076923,4.0
+281,"2015-11-18,www.gov.uk/yourstatepension",36.0,177.0,0.203389830508,2.0
+282,"2015-11-25,what will my state pension be",36.0,72.0,0.5,2.0
+283,"2015-11-06,when will i get my state pension",36.0,60.0,0.6,2.0
+284,"2015-11-18,new state pension calculator",36.0,60.0,0.6,1.0
+285,"2015-11-10,pension age calculator",35.0,46.0,0.760869565217,1.0
+286,"2015-11-24,when do i get my pension",35.0,72.0,0.486111111111,2.0
+287,"2015-11-14,state pension age calculator",35.0,37.0,0.945945945946,1.0
+288,"2015-11-24,pensions calculator",35.0,91.0,0.384615384615,2.0
+289,"2015-11-12,new state pension calculator",34.0,71.0,0.478873239437,1.0
+290,"2015-11-24,when will i get my pension",34.0,60.0,0.566666666667,2.0
+291,"2015-11-19,pension age calculator",34.0,53.0,0.641509433962,1.0
+292,"2015-11-09,pension age calculator",34.0,45.0,0.755555555556,1.0
+293,"2015-11-12,when will i get my pension",34.0,44.0,0.772727272727,2.0
+294,"2015-11-22,pension forecast",33.0,234.0,0.141025641026,2.0
+295,"2015-11-21,government pension",33.0,206.0,0.160194174757,2.0
+296,"2015-11-19,when will i get my state pension",33.0,56.0,0.589285714286,2.0
+297,"2015-11-21,how much pension will i get when i retire",33.0,56.0,0.589285714286,1.0
+298,"2015-11-24,government pension",33.0,247.0,0.133603238866,2.0
+299,"2015-11-04,pension age calculator",33.0,42.0,0.785714285714,1.0
+300,"2015-11-25,what will my pension be",32.0,43.0,0.744186046512,1.0
+301,"2015-11-20,when do i get my pension",32.0,43.0,0.744186046512,2.0
+302,"2015-11-29,pension forecast",32.0,243.0,0.131687242798,2.0
+303,"2015-11-20,new state pension calculator",32.0,69.0,0.463768115942,1.0
+304,"2015-11-30,when will i get my state pension",32.0,48.0,0.666666666667,2.0
+305,"2015-11-30,government pension",32.0,228.0,0.140350877193,2.0
+306,"2015-11-29,when do i get my pension",32.0,55.0,0.581818181818,2.0
+307,"2015-11-08,state pension age calculator",32.0,41.0,0.780487804878,1.0
+308,"2015-11-02,when will i get my state pension",31.0,50.0,0.62,2.0
+309,"2015-11-08,pension forecast",31.0,200.0,0.155,2.0
+310,"2015-11-12,when will i get my state pension",31.0,50.0,0.62,2.0
+311,"2015-11-16,new state pension calculator",31.0,61.0,0.508196721311,1.0
+312,"2015-11-17,new state pension calculator",31.0,63.0,0.492063492063,1.0
+313,"2015-11-03,when do i get my pension",31.0,54.0,0.574074074074,2.0
+314,"2015-11-19,when will i get my pension",31.0,46.0,0.673913043478,2.0
+315,"2015-11-04,pension forecast",31.0,245.0,0.126530612245,2.0
+316,"2015-11-25,how much will my state pension be",31.0,53.0,0.584905660377,2.0
+317,"2015-11-03,pension forecast",31.0,315.0,0.0984126984127,2.0
+318,"2015-11-27,new state pension calculator",31.0,51.0,0.607843137255,1.0
+319,"2015-11-06,pension forecast",31.0,256.0,0.12109375,2.0
+320,"2015-11-23,your state pension",31.0,103.0,0.300970873786,1.0
+321,"2015-11-20,when will i get my pension",31.0,61.0,0.508196721311,2.0
+322,"2015-11-22,when will i get my pension",30.0,66.0,0.454545454545,2.0
+323,"2015-11-17,pension age calculator",30.0,40.0,0.75,1.0
+324,"2015-11-23,when can i get my state pension",29.0,52.0,0.557692307692,2.0
+325,"2015-11-22,when will i get my state pension",29.0,55.0,0.527272727273,2.0
+326,"2015-11-16,pension age calculator",29.0,33.0,0.878787878788,1.0
+327,"2015-11-09,when will i get my state pension",29.0,51.0,0.56862745098,2.0
+328,"2015-11-05,how much pension will i get",29.0,71.0,0.408450704225,2.0
+329,"2015-11-27,how much pension will i get when i retire",29.0,47.0,0.617021276596,1.0
+330,"2015-11-21,when do i get my state pension",29.0,50.0,0.58,2.0
+331,"2015-11-09,when do i get my pension",29.0,50.0,0.58,2.0
+332,"2015-11-28,new state pension calculator",28.0,68.0,0.411764705882,1.0
+333,"2015-11-16,when do i get my pension",28.0,43.0,0.651162790698,2.0
+334,"2015-11-25,how much is the state pension",28.0,307.0,0.0912052117264,4.0
+335,"2015-11-19,government pension",28.0,202.0,0.138613861386,2.0
+336,"2015-11-24,pension age uk",28.0,121.0,0.231404958678,2.0
+337,"2015-11-21,state pension age calculator",28.0,34.0,0.823529411765,1.0
+338,"2015-11-19,new state pension calculator",28.0,57.0,0.491228070175,1.0
+339,"2015-11-17,government pension",28.0,218.0,0.128440366972,2.0
+340,"2015-11-03,when will i get my state pension",27.0,40.0,0.675,2.0
+341,"2015-11-04,government pension",27.0,234.0,0.115384615385,2.0
+342,"2015-11-02,government pension",27.0,174.0,0.155172413793,2.0
+343,"2015-11-21,how much will my state pension be",27.0,41.0,0.658536585366,2.0
+344,"2015-11-15,pension age calculator",27.0,38.0,0.710526315789,1.0
+345,"2015-11-10,pension forecast",27.0,275.0,0.0981818181818,2.0
+346,"2015-11-18,pension age calculator",27.0,37.0,0.72972972973,1.0
+347,"2015-11-05,when do i get my pension",27.0,47.0,0.574468085106,2.0
+348,"2015-11-26,my pension",27.0,62.0,0.435483870968,1.0
+349,"2015-11-25,how much pension can i get",27.0,35.0,0.771428571429,1.0
+350,"2015-11-20,when do i get my state pension",27.0,40.0,0.675,2.0
+351,"2015-11-21,what will my state pension be",27.0,53.0,0.509433962264,2.0
+352,"2015-11-25,uk pension age",27.0,68.0,0.397058823529,2.0
+353,"2015-11-21,my pension",27.0,44.0,0.613636363636,1.0
+354,"2015-11-13,pension age calculator",27.0,38.0,0.710526315789,1.0
+355,"2015-11-27,pension forecast",27.0,269.0,0.100371747212,2.0
+356,"2015-11-14,pension age",27.0,143.0,0.188811188811,2.0
+357,"2015-11-22,uk state pension",27.0,191.0,0.141361256545,2.0
+358,"2015-11-27,how much state pension will i receive",27.0,39.0,0.692307692308,2.0
+359,"2015-11-18,pension forecast",26.0,275.0,0.0945454545455,2.0
+360,"2015-11-30,when do i get my pension",26.0,48.0,0.541666666667,2.0
+361,"2015-11-05,when will i get my pension",26.0,42.0,0.619047619048,2.0
+362,"2015-11-15,when will i get my pension",26.0,40.0,0.65,2.0
+363,"2015-11-26,pension age uk",26.0,135.0,0.192592592593,2.0
+364,"2015-11-22,www.gov.uk/yourstatepension",26.0,124.0,0.209677419355,2.0
+365,"2015-11-22,my state pension",26.0,57.0,0.456140350877,1.0
+366,"2015-11-10,when will i get my state pension",26.0,48.0,0.541666666667,2.0
+367,"2015-11-25,basic state pension",26.0,473.0,0.0549682875264,3.0
+368,"2015-11-23,how much state pension will i receive",26.0,55.0,0.472727272727,2.0
+369,"2015-11-29,government pension",26.0,129.0,0.201550387597,2.0
+370,"2015-11-25,old age pension uk",25.0,147.0,0.170068027211,2.0
+371,"2015-11-21,how much is the state pension",25.0,325.0,0.0769230769231,3.79384615385
+372,"2015-11-20,my state pension",25.0,60.0,0.416666666667,1.0
+373,"2015-11-22,when do i get my pension",25.0,43.0,0.581395348837,2.0
+374,"2015-11-23,how much pension will i get",25.0,57.0,0.438596491228,2.0
+375,"2015-11-22,my pension",25.0,44.0,0.568181818182,1.0
+376,"2015-11-16,your state pension",25.0,83.0,0.301204819277,1.0
+377,"2015-11-22,how much state pension will i receive",25.0,56.0,0.446428571429,2.0
+378,"2015-11-30,how much pension will i get when i retire",25.0,45.0,0.555555555556,1.0
+379,"2015-11-30,my state pension",25.0,64.0,0.390625,1.0
+380,"2015-11-25,calculate state pension",24.0,35.0,0.685714285714,1.0
+381,"2015-11-21,pensions calculator",24.0,50.0,0.48,2.0
+382,"2015-11-23,old age pension",24.0,172.0,0.139534883721,2.0
+383,"2015-11-24,your state pension",24.0,63.0,0.380952380952,1.0
+384,"2015-11-26,government pension",24.0,170.0,0.141176470588,2.0
+385,"2015-11-04,how much pension will i get",24.0,62.0,0.387096774194,2.0
+386,"2015-11-21,old age pension",24.0,245.0,0.0979591836735,2.0
+387,"2015-11-01,state pension age calculator",24.0,34.0,0.705882352941,1.0
+388,"2015-11-21,how much state pension will i get",24.0,59.0,0.406779661017,2.0
+389,"2015-11-25,when can i claim my state pension",24.0,46.0,0.521739130435,2.0
+390,"2015-11-18,when will i get my pension",24.0,49.0,0.489795918367,2.0
+391,"2015-11-29,pension age calculator",23.0,37.0,0.621621621622,1.0
+392,"2015-11-02,calculate state pension",23.0,29.0,0.793103448276,1.0
+393,"2015-11-05,government pension",23.0,157.0,0.146496815287,2.0
+394,"2015-11-10,how much state pension will i get",23.0,48.0,0.479166666667,2.0
+395,"2015-11-11,how much pension will i get",23.0,74.0,0.310810810811,2.0
+396,"2015-11-22,pension age uk",23.0,92.0,0.25,2.0
+397,"2015-11-24,my state pension",23.0,51.0,0.450980392157,1.0
+398,"2015-11-30,my pension",23.0,58.0,0.396551724138,1.0
+399,"2015-11-29,state pension age calculator",23.0,31.0,0.741935483871,1.0
+400,"2015-11-24,how much pension will i get when i retire",23.0,39.0,0.589743589744,1.0
+401,"2015-11-03,government pension",23.0,149.0,0.154362416107,2.0
+402,"2015-11-12,how much state pension will i get",23.0,48.0,0.479166666667,2.0
+403,"2015-11-15,when do i get my pension",23.0,41.0,0.560975609756,2.0
+404,"2015-11-21,your state pension",23.0,52.0,0.442307692308,1.0
+405,"2015-11-21,pension age calculator",23.0,29.0,0.793103448276,1.0
+406,"2015-11-22,state pension age calculator",23.0,27.0,0.851851851852,1.0
+407,"2015-11-27,pensions calculator",23.0,69.0,0.333333333333,2.0
+408,"2015-11-21,how much is state pension",22.0,363.0,0.0606060606061,4.0
+409,"2015-11-20,my pension",22.0,63.0,0.349206349206,1.0
+410,"2015-11-25,what pension will i get",22.0,34.0,0.647058823529,1.0
+411,"2015-11-11,when can i get my state pension",22.0,43.0,0.511627906977,2.0
+412,"2015-11-29,when will i get my pension",22.0,36.0,0.611111111111,2.0
+413,"2015-11-26,when will i get my state pension",22.0,41.0,0.536585365854,2.0
+414,"2015-11-08,when do i get my pension",22.0,41.0,0.536585365854,2.0
+415,"2015-11-11,new state pension calculator",22.0,49.0,0.448979591837,1.0
+416,"2015-11-02,pension age calculator",22.0,29.0,0.758620689655,1.0
+417,"2015-11-25,when can i get my state pension",22.0,37.0,0.594594594595,2.0
+418,"2015-11-24,my pension",22.0,56.0,0.392857142857,1.0
+419,"2015-11-20,government pension",22.0,137.0,0.160583941606,2.0
+420,"2015-11-20,uk state pension",22.0,102.0,0.21568627451,2.0
+421,"2015-11-07,state pension age calculator",21.0,23.0,0.913043478261,1.0
+422,"2015-11-10,government pension",21.0,162.0,0.12962962963,2.0
+423,"2015-11-06,when do i get my pension",21.0,44.0,0.477272727273,2.0
+424,"2015-11-17,pension forecast",21.0,251.0,0.0836653386454,2.0
+425,"2015-11-29,when will i get my state pension",21.0,42.0,0.5,2.0
+426,"2015-11-14,pension age calculator",21.0,30.0,0.7,1.0
+427,"2015-11-01,pension forecast",21.0,225.0,0.0933333333333,2.0
+428,"2015-11-09,how much pension will i get",21.0,52.0,0.403846153846,2.0
+429,"2015-11-28,when will i get my pension",21.0,46.0,0.45652173913,2.0
+430,"2015-11-13,new state pension calculator",21.0,39.0,0.538461538462,1.0
+431,"2015-11-29,how much pension will i get when i retire",21.0,37.0,0.567567567568,1.0
+432,"2015-11-02,how much pension will i get",21.0,55.0,0.381818181818,2.0
+433,"2015-11-15,state pension age calculator",21.0,27.0,0.777777777778,1.0
+434,"2015-11-18,when will i get my state pension",21.0,48.0,0.4375,2.0
+435,"2015-11-07,when will i get my state pension",20.0,55.0,0.363636363636,2.0
+436,"2015-11-01,government pension",20.0,152.0,0.131578947368,2.0
+437,"2015-11-28,state pension age calculator",20.0,24.0,0.833333333333,1.0
+438,"2015-11-08,pension age uk",20.0,89.0,0.224719101124,2.50561797753
+439,"2015-11-25,uk state pension age",20.0,58.0,0.344827586207,2.0
+440,"2015-11-17,when will i get my pension",20.0,31.0,0.645161290323,2.0
+441,"2015-11-07,pension forecast",20.0,182.0,0.10989010989,2.0
+442,"2015-11-07,when will i get my pension",20.0,42.0,0.47619047619,2.0
+443,"2015-11-30,when will i get my pension",20.0,41.0,0.487804878049,2.0
+444,"2015-11-11,how much state pension will i receive",20.0,33.0,0.606060606061,2.0
+445,"2015-11-21,what state pension will i get",20.0,33.0,0.606060606061,1.0
+446,"2015-11-27,when will i get my state pension",20.0,40.0,0.5,2.0
+447,"2015-11-29,gov.uk/yourstatepension",20.0,100.0,0.2,2.0
+448,"2015-11-15,pension forecast",20.0,157.0,0.127388535032,2.0
+449,"2015-11-23,uk pension age",20.0,58.0,0.344827586207,2.0
+450,"2015-11-22,pension age calculator",20.0,33.0,0.606060606061,1.0
+451,"2015-11-07,when do i get my pension",19.0,39.0,0.487179487179,2.0
+452,"2015-11-11,government pension",19.0,152.0,0.125,2.0
+453,"2015-11-29,new state pension calculator",19.0,69.0,0.275362318841,2.0
+454,"2015-11-23,my pension",19.0,57.0,0.333333333333,1.0
+455,"2015-11-20,pension forecast",19.0,231.0,0.0822510822511,2.0
+456,"2015-11-24,how much state pension will i get",19.0,42.0,0.452380952381,2.0
+457,"2015-11-22,old age pension",19.0,157.0,0.12101910828,2.0
+458,"2015-11-20,pensions calculator",19.0,55.0,0.345454545455,2.0
+459,"2015-11-06,government pension",19.0,127.0,0.149606299213,2.0
+460,"2015-11-16,my pension",19.0,38.0,0.5,1.0
+461,"2015-11-26,uk pension age",19.0,42.0,0.452380952381,2.0
+462,"2015-11-14,new state pension calculator",19.0,40.0,0.475,1.0
+463,"2015-11-25,how much will my pension be",19.0,30.0,0.633333333333,2.0
+464,"2015-11-28,pension forecast",19.0,190.0,0.1,2.0
+465,"2015-11-22,government pension",19.0,166.0,0.114457831325,2.0
+466,"2015-11-11,calculate state pension",19.0,33.0,0.575757575758,1.0
+467,"2015-11-28,government pension",19.0,77.0,0.246753246753,2.0
+468,"2015-11-26,when can i claim my state pension",19.0,34.0,0.558823529412,2.0
+469,"2015-11-24,when can i claim my state pension",19.0,30.0,0.633333333333,2.0
+470,"2015-11-13,when do i get my pension",19.0,31.0,0.612903225806,2.0
+471,"2015-11-22,when do i get my state pension",19.0,33.0,0.575757575758,2.0
+472,"2015-11-01,when do i get my pension",19.0,29.0,0.655172413793,2.0
+473,"2015-11-22,when can i claim my state pension",18.0,32.0,0.5625,2.0
+474,"2015-11-12,how much pension will i get",18.0,49.0,0.367346938776,2.0
+475,"2015-11-25,calculate my pension",18.0,19.0,0.947368421053,1.0
+476,"2015-11-21,will i get a state pension",18.0,23.0,0.782608695652,1.0
+477,"2015-11-21,when can i claim my state pension",18.0,34.0,0.529411764706,2.0
+478,"2015-11-28,how much state pension will i receive",18.0,35.0,0.514285714286,2.0
+479,"2015-11-27,when do i get my pension",18.0,34.0,0.529411764706,2.0
+480,"2015-11-25,state pension age uk",18.0,36.0,0.5,1.0
+481,"2015-11-05,pension age uk",18.0,70.0,0.257142857143,3.0
+482,"2015-11-24,www.gov.uk/yourstatepension",18.0,96.0,0.1875,2.0
+483,"2015-11-30,new state pension calculator",18.0,65.0,0.276923076923,2.0
+484,"2015-11-24,when do i get my state pension",18.0,24.0,0.75,2.0
+485,"2015-11-25,what state pension will i get",18.0,33.0,0.545454545455,1.0
+486,"2015-11-13,when will i get my pension",18.0,28.0,0.642857142857,2.0
+487,"2015-11-16,government pension",18.0,148.0,0.121621621622,2.0
+488,"2015-11-15,new state pension calculator",18.0,28.0,0.642857142857,1.0
+489,"2015-11-19,my state pension",18.0,49.0,0.367346938776,1.0
+490,"2015-11-21,uk state pension age",18.0,47.0,0.382978723404,2.0
+491,"2015-11-12,uk state pension",18.0,108.0,0.166666666667,2.0
+492,"2015-11-21,what is the basic state pension",18.0,233.0,0.0772532188841,3.0
+493,"2015-11-18,pension age uk",18.0,84.0,0.214285714286,3.0
+494,"2015-11-23,when will i receive my state pension",17.0,34.0,0.5,2.0
+495,"2015-11-26,when do i get my state pension",17.0,26.0,0.653846153846,2.0
+496,"2015-11-07,new state pension calculator",17.0,32.0,0.53125,1.0
+497,"2015-11-12,how much state pension will i receive",17.0,33.0,0.515151515152,2.0
+498,"2015-11-22,your state pension",17.0,54.0,0.314814814815,1.0
+499,"2015-11-20,how much state pension will i receive",17.0,34.0,0.5,2.0
+500,"2015-11-28,how much pension will i get when i retire",17.0,22.0,0.772727272727,1.0
+501,"2015-11-05,how much state pension will i get",17.0,40.0,0.425,2.0
+502,"2015-11-20,old age pension",17.0,147.0,0.115646258503,2.0
+503,"2015-11-23,what is my state pension age",17.0,23.0,0.739130434783,2.0
+504,"2015-11-30,how much state pension will i get",17.0,39.0,0.435897435897,2.0
+505,"2015-11-09,old age pension",17.0,113.0,0.150442477876,2.0
+506,"2015-11-22,how much will my state pension be",17.0,29.0,0.586206896552,2.0
+507,"2015-11-04,new state pension calculator",17.0,27.0,0.62962962963,1.0
+508,"2015-11-07,pension age calculator",17.0,28.0,0.607142857143,1.0
+509,"2015-11-12,government pension",17.0,118.0,0.14406779661,2.0
+510,"2015-11-16,pension forecast",17.0,186.0,0.0913978494624,2.0
+511,"2015-11-29,uk state pension",17.0,118.0,0.14406779661,2.0
+512,"2015-11-26,how much will my state pension be",17.0,27.0,0.62962962963,2.0
+513,"2015-11-06,how much pension will i get",17.0,50.0,0.34,2.0
+514,"2015-11-05,new state pension calculator",17.0,38.0,0.447368421053,1.0
+515,"2015-11-02,when can i get my state pension",17.0,30.0,0.566666666667,2.0
+516,"2015-11-22,how much pension will i get",16.0,53.0,0.301886792453,2.0
+517,"2015-11-08,when will i get my pension",16.0,27.0,0.592592592593,2.0
+518,"2015-11-25,www.gov.uk/yourstatepension",16.0,111.0,0.144144144144,2.0
+519,"2015-11-14,when will i get my state pension",16.0,38.0,0.421052631579,2.0
+520,"2015-11-03,how much state pension will i get",16.0,33.0,0.484848484848,2.0
+521,"2015-11-26,basic state pension",16.0,130.0,0.123076923077,3.0
+522,"2015-11-14,government pension",16.0,103.0,0.155339805825,2.0
+523,"2015-11-23,gov pension",16.0,73.0,0.219178082192,2.0
+524,"2015-11-03,how much pension will i get",16.0,67.0,0.238805970149,2.0
+525,"2015-11-25,when will i receive my state pension",16.0,29.0,0.551724137931,2.0
+526,"2015-11-25,what is my state pension age",16.0,23.0,0.695652173913,2.0
+527,"2015-11-21,what is the state pension",16.0,103.0,0.155339805825,3.0
+528,"2015-11-22,how much state pension will i get",16.0,33.0,0.484848484848,2.0
+529,"2015-11-14,when do i get my pension",16.0,24.0,0.666666666667,2.0
+530,"2015-11-09,government pension",16.0,122.0,0.131147540984,2.0
+531,"2015-11-26,my state pension",16.0,45.0,0.355555555556,1.0
+532,"2015-11-04,when do i get my pension",16.0,40.0,0.4,2.0
+533,"2015-11-17,when will i get my state pension",16.0,28.0,0.571428571429,2.0
+534,"2015-11-23,pensions calculator",16.0,41.0,0.390243902439,2.0
+535,"2015-11-02,how much state pension will i get",16.0,34.0,0.470588235294,2.0
+536,"2015-11-07,how much pension will i get",16.0,44.0,0.363636363636,2.0
+537,"2015-11-01,how much pension will i get",16.0,54.0,0.296296296296,2.0
+538,"2015-11-26,when do i get my pension",16.0,31.0,0.516129032258,2.0
+539,"2015-11-12,calculate state pension",16.0,27.0,0.592592592593,1.0
+540,"2015-11-14,how much pension will i get",16.0,43.0,0.372093023256,2.0
+541,"2015-11-09,how much state pension will i get",16.0,28.0,0.571428571429,2.0
+542,"2015-11-21,how much pension can i get",16.0,23.0,0.695652173913,1.0
+543,"2015-11-06,how much state pension will i get",16.0,30.0,0.533333333333,2.0
+544,"2015-11-08,when will i get my state pension",16.0,32.0,0.5,2.0
+545,"2015-11-19,when can i claim my state pension",16.0,30.0,0.533333333333,2.0
+546,"2015-11-23,check my state pension",16.0,92.0,0.173913043478,2.0
+547,"2015-11-13,pension forecast",16.0,223.0,0.0717488789238,2.0
+548,"2015-11-23,how much state pension will i get",16.0,33.0,0.484848484848,2.0
+549,"2015-11-10,uk state pension",15.0,85.0,0.176470588235,2.0
+550,"2015-11-18,your state pension",15.0,56.0,0.267857142857,1.0
+551,"2015-11-26,old age pension",15.0,162.0,0.0925925925926,2.0
+552,"2015-11-11,state pension age uk",15.0,23.0,0.652173913043,1.0
+553,"2015-11-19,how much state pension will i receive",15.0,32.0,0.46875,2.0
+554,"2015-11-11,uk pension age",15.0,31.0,0.483870967742,2.0
+555,"2015-11-30,when do i get my state pension",15.0,20.0,0.75,2.0
+556,"2015-11-24,check my state pension",15.0,87.0,0.172413793103,2.0
+557,"2015-11-12,what is my state pension age",15.0,24.0,0.625,2.0
+558,"2015-11-26,calculate state pension",15.0,21.0,0.714285714286,1.0
+559,"2015-11-02,when do i get my pension",15.0,26.0,0.576923076923,2.0
+560,"2015-11-17,your state pension",15.0,61.0,0.245901639344,1.0
+561,"2015-11-28,calculate state pension",15.0,26.0,0.576923076923,1.0
+562,"2015-11-23,what age will i get my state pension",15.0,24.0,0.625,2.0
+563,"2015-11-24,uk state pension",15.0,101.0,0.148514851485,2.0
+564,"2015-11-08,how much pension will i get",15.0,44.0,0.340909090909,2.0
+565,"2015-11-02,when do i get my state pension",15.0,19.0,0.789473684211,2.0
+566,"2015-11-28,your state pension",15.0,36.0,0.416666666667,1.0
+567,"2015-11-16,when will i get my state pension",15.0,20.0,0.75,2.0
+568,"2015-11-23,gov.uk/yourstatepension",15.0,83.0,0.180722891566,2.0
+569,"2015-11-21,when will i get state pension",15.0,23.0,0.652173913043,2.0
+570,"2015-11-15,government pension",15.0,106.0,0.141509433962,2.0
+571,"2015-11-26,how much pension will i get",15.0,33.0,0.454545454545,2.0
+572,"2015-11-08,uk state pension",15.0,69.0,0.217391304348,2.0
+573,"2015-11-20,how much will my state pension be",14.0,21.0,0.666666666667,2.0
+574,"2015-11-15,pension age uk",14.0,70.0,0.2,3.0
+575,"2015-11-27,pension age uk",14.0,60.0,0.233333333333,2.0
+576,"2015-11-13,calculate state pension",14.0,14.0,1.0,1.0
+577,"2015-11-21,when can i get my state pension",14.0,24.0,0.583333333333,2.0
+578,"2015-11-21,calculate state pension",14.0,25.0,0.56,1.0
+579,"2015-11-30,how much state pension will i receive",14.0,32.0,0.4375,2.0
+580,"2015-11-12,when do i get my pension",14.0,26.0,0.538461538462,2.0
+581,"2015-11-10,when do i get my pension",14.0,31.0,0.451612903226,2.0
+582,"2015-11-11,when can i draw my state pension",14.0,15.0,0.933333333333,1.0
+583,"2015-11-02,when will i get my pension",14.0,19.0,0.736842105263,2.0
+584,"2015-11-13,uk state pension",14.0,74.0,0.189189189189,2.0
+585,"2015-11-18,calculate state pension",14.0,22.0,0.636363636364,1.0
+586,"2015-11-18,when do i get my pension",14.0,31.0,0.451612903226,2.0
+587,"2015-11-22,what state pension will i get",14.0,21.0,0.666666666667,1.0
+588,"2015-11-25,state pension uk",14.0,97.0,0.144329896907,3.0
+589,"2015-11-30,pension age uk",14.0,66.0,0.212121212121,2.0
+590,"2015-11-22,how much is the state pension",14.0,85.0,0.164705882353,3.47058823529
+591,"2015-11-20,uk pension age",14.0,41.0,0.341463414634,2.0
+592,"2015-11-04,when is my state pension age",14.0,17.0,0.823529411765,1.0
+593,"2015-11-10,pension age uk",14.0,76.0,0.184210526316,3.0
+594,"2015-11-07,uk state pension",14.0,96.0,0.145833333333,2.0
+595,"2015-11-01,pension age calculator",14.0,25.0,0.56,1.0
+596,"2015-11-28,pensions calculator",14.0,52.0,0.269230769231,2.0
+597,"2015-11-24,calculate state pension",14.0,23.0,0.608695652174,1.0
+598,"2015-11-26,calculate state pension age",14.0,15.0,0.933333333333,1.0
+599,"2015-11-01,calculate state pension",14.0,17.0,0.823529411765,1.0
+600,"2015-11-16,calculate state pension",14.0,20.0,0.7,1.0
+601,"2015-11-19,calculate state pension",14.0,17.0,0.823529411765,1.0
+602,"2015-11-13,when will i get my state pension",14.0,21.0,0.666666666667,2.0
+603,"2015-11-15,what age will i get my state pension",13.0,18.0,0.722222222222,2.0
+604,"2015-11-19,www.gov.uk/yourstatepension",13.0,92.0,0.141304347826,2.0
+605,"2015-11-17,when do i get my pension",13.0,24.0,0.541666666667,2.0
+606,"2015-11-26,uk state pension",13.0,97.0,0.134020618557,2.0
+607,"2015-11-19,when can i get my state pension",13.0,27.0,0.481481481481,2.0
+608,"2015-11-04,calculate state pension",13.0,15.0,0.866666666667,1.0
+609,"2015-11-02,uk state pension",13.0,84.0,0.154761904762,2.0
+610,"2015-11-19,state pension age uk",13.0,22.0,0.590909090909,1.0
+611,"2015-11-30,calculate state pension",13.0,19.0,0.684210526316,1.0
+612,"2015-11-01,new state pension calculator",13.0,41.0,0.317073170732,1.0
+613,"2015-11-27,when can i claim my state pension",13.0,18.0,0.722222222222,2.0
+614,"2015-11-27,when will i get my pension",13.0,23.0,0.565217391304,2.0
+615,"2015-11-22,how much pension can i get",13.0,17.0,0.764705882353,1.0
+616,"2015-11-22,pensions calculator",13.0,23.0,0.565217391304,2.0
+617,"2015-11-22,gov.uk/yourstatepension",13.0,55.0,0.236363636364,2.0
+618,"2015-11-11,what is my state pension age",13.0,21.0,0.619047619048,2.0
+619,"2015-11-08,old age pension",13.0,103.0,0.126213592233,2.0
+620,"2015-11-20,when can i get my state pension",13.0,17.0,0.764705882353,2.0
+621,"2015-11-11,when do i get my state pension",13.0,16.0,0.8125,2.0
+622,"2015-11-16,how much pension will i get",13.0,37.0,0.351351351351,2.0
+623,"2015-11-26,calculate my state pension",13.0,17.0,0.764705882353,1.0
+624,"2015-11-19,how much pension will i get",13.0,43.0,0.302325581395,2.0
+625,"2015-11-01,when will i get my pension",13.0,18.0,0.722222222222,2.0
+626,"2015-11-02,new state pension calculator",13.0,40.0,0.325,1.0
+627,"2015-11-27,government pension",13.0,107.0,0.121495327103,2.0
+628,"2015-11-09,state pension age uk",13.0,19.0,0.684210526316,1.0
+629,"2015-11-04,calculate state pension age",13.0,13.0,1.0,1.0
+630,"2015-11-22,uk pension age",13.0,42.0,0.309523809524,2.0
+631,"2015-11-18,when do i get my state pension",13.0,23.0,0.565217391304,2.0
+632,"2015-11-18,my pension",13.0,31.0,0.41935483871,1.0
+633,"2015-11-28,when do i get my pension",13.0,23.0,0.565217391304,2.0
+634,"2015-11-20,basic state pension",13.0,253.0,0.0513833992095,3.0
+635,"2015-11-01,when will i get my state pension",13.0,31.0,0.41935483871,2.0
+636,"2015-11-28,when do i get my state pension",13.0,24.0,0.541666666667,2.0
+637,"2015-11-18,how much pension will i get",13.0,37.0,0.351351351351,2.0
+638,"2015-11-07,how much state pension will i get",13.0,31.0,0.41935483871,2.0
+639,"2015-11-20,how much is the state pension",13.0,167.0,0.0778443113772,4.0
+640,"2015-11-19,my pension",13.0,25.0,0.52,1.0
+641,"2015-11-29,my pension",12.0,22.0,0.545454545455,1.0
+642,"2015-11-05,what is my state pension age",12.0,20.0,0.6,2.0
+643,"2015-11-19,uk state pension",12.0,79.0,0.151898734177,2.0
+644,"2015-11-20,what is my state pension age",12.0,18.0,0.666666666667,2.0
+645,"2015-11-09,uk state pension",12.0,61.0,0.196721311475,2.0
+646,"2015-11-24,gov.uk/yourstatepension",12.0,45.0,0.266666666667,2.0
+647,"2015-11-11,how much state pension will i get",12.0,23.0,0.521739130435,2.0
+648,"2015-11-21,gov pension",12.0,67.0,0.179104477612,2.0
+649,"2015-11-14,how much state pension will i receive",12.0,29.0,0.413793103448,2.0
+650,"2015-11-11,pension age calculator 2015",12.0,13.0,0.923076923077,1.0
+651,"2015-11-15,uk state pension",12.0,88.0,0.136363636364,2.0
+652,"2015-11-04,how much state pension will i get",12.0,27.0,0.444444444444,2.0
+653,"2015-11-16,how much state pension will i get",12.0,17.0,0.705882352941,2.0
+654,"2015-11-07,when can i get my state pension",12.0,25.0,0.48,2.0
+655,"2015-11-13,when do i get my state pension",12.0,17.0,0.705882352941,2.0
+656,"2015-11-10,what is my state pension age",12.0,20.0,0.6,2.0
+657,"2015-11-13,when can i claim my state pension",12.0,14.0,0.857142857143,2.0
+658,"2015-11-21,when will i receive my state pension",12.0,25.0,0.48,2.0
+659,"2015-11-04,when can i get my state pension",12.0,18.0,0.666666666667,2.0
+660,"2015-11-15,how much state pension will i get",12.0,22.0,0.545454545455,2.0
+661,"2015-11-03,my pension",12.0,25.0,0.48,1.0
+662,"2015-11-08,pension age calculator",12.0,19.0,0.631578947368,1.0
+663,"2015-11-29,old age pension",12.0,87.0,0.137931034483,2.0
+664,"2015-11-27,uk state pension",12.0,97.0,0.123711340206,2.0
+665,"2015-11-06,state pension age in uk",12.0,21.0,0.571428571429,2.0
+666,"2015-11-09,new state pension calculator",12.0,28.0,0.428571428571,1.0
+667,"2015-11-17,calculate state pension",12.0,13.0,0.923076923077,1.0
+668,"2015-11-07,when do i get my state pension",12.0,21.0,0.571428571429,1.80952380952
+669,"2015-11-06,pension age uk",12.0,59.0,0.203389830508,2.4406779661
+670,"2015-11-20,will i get a state pension",11.0,22.0,0.5,1.0
+671,"2015-11-24,calculate state pension age",11.0,14.0,0.785714285714,1.0
+672,"2015-11-20,how much pension can i get",11.0,15.0,0.733333333333,1.0
+673,"2015-11-19,how much is the state pension",11.0,83.0,0.132530120482,4.0
+674,"2015-11-26,when can i get my state pension",11.0,19.0,0.578947368421,2.0
+675,"2015-11-12,old age pension",11.0,118.0,0.0932203389831,2.0
+676,"2015-11-23,calculate state pension",11.0,17.0,0.647058823529,1.0
+677,"2015-11-12,how much is the state pension",11.0,86.0,0.127906976744,4.0
+678,"2015-11-07,calculate state pension",11.0,19.0,0.578947368421,1.0
+679,"2015-11-21,what pension will i get",11.0,17.0,0.647058823529,1.0
+680,"2015-11-24,tax.service.gov.uk/checkmystatepension",11.0,53.0,0.207547169811,3.0
+681,"2015-11-16,when can i get my state pension",11.0,18.0,0.611111111111,2.0
+682,"2015-11-26,what will my state pension be",11.0,22.0,0.5,2.0
+683,"2015-11-05,calculate state pension",11.0,17.0,0.647058823529,1.0
+684,"2015-11-14,pension forecast",11.0,142.0,0.0774647887324,2.0
+685,"2015-11-19,when do i get my state pension",11.0,15.0,0.733333333333,2.0
+686,"2015-11-03,pension age uk",11.0,49.0,0.224489795918,3.0
+687,"2015-11-30,when will i receive my state pension",11.0,21.0,0.52380952381,2.0
+688,"2015-11-03,new state pension calculator",11.0,21.0,0.52380952381,1.0
+689,"2015-11-25,how much is my state pension",11.0,15.0,0.733333333333,2.0
+690,"2015-11-25,calculate state pension age",11.0,14.0,0.785714285714,1.0
+691,"2015-11-20,when can i claim my state pension",11.0,21.0,0.52380952381,2.0
+692,"2015-11-21,basic state pension",11.0,174.0,0.0632183908046,3.0
+693,"2015-11-14,when will i get my pension",11.0,25.0,0.44,2.0
+694,"2015-11-27,uk pension age",11.0,24.0,0.458333333333,2.0
+695,"2015-11-05,uk state pension",11.0,73.0,0.150684931507,2.0
+696,"2015-11-27,www.gov.uk/yourstatepension",11.0,46.0,0.239130434783,2.0
+697,"2015-11-29,how much state pension will i receive",11.0,29.0,0.379310344828,2.0
+698,"2015-11-25,check my state pension",11.0,49.0,0.224489795918,2.0
+699,"2015-11-26,how much is state pension",11.0,130.0,0.0846153846154,4.0
+700,"2015-11-17,what is my state pension age",11.0,24.0,0.458333333333,2.0
+701,"2015-11-27,my pension",11.0,28.0,0.392857142857,1.0
+702,"2015-11-08,calculate state pension",11.0,16.0,0.6875,1.0
+703,"2015-11-26,www.gov.uk/yourstatepension",11.0,71.0,0.154929577465,2.0
+704,"2015-11-17,how much pension will i get",11.0,44.0,0.25,2.0
+705,"2015-11-27,old age pension",11.0,90.0,0.122222222222,2.0
+706,"2015-11-29,calculate state pension",11.0,16.0,0.6875,1.0
+707,"2015-11-20,pension age uk",11.0,44.0,0.25,2.0
+708,"2015-11-17,state pension age in uk",11.0,19.0,0.578947368421,2.0
+709,"2015-11-21,calculate my state pension",11.0,16.0,0.6875,1.0
+710,"2015-11-21,basic state pension amount",11.0,212.0,0.0518867924528,3.0
+711,"2015-11-10,when can i get my state pension",11.0,17.0,0.647058823529,2.0
+712,"2015-11-16,when will i get my pension",11.0,20.0,0.55,2.0
+713,"2015-11-24,how much state pension will i receive",11.0,15.0,0.733333333333,2.0
+714,"2015-11-28,pension age calculator",11.0,15.0,0.733333333333,1.0
+715,"2015-11-16,state pension age in uk",11.0,22.0,0.5,2.0
+716,"2015-11-05,uk pension age",11.0,17.0,0.647058823529,2.0
+717,"2015-11-23,uk state pension",11.0,121.0,0.0909090909091,2.0
+718,"2015-11-08,how much state pension will i get",10.0,23.0,0.434782608696,2.0
+719,"2015-11-26,gov pension",10.0,35.0,0.285714285714,2.0
+720,"2015-11-03,what is my state pension age",10.0,19.0,0.526315789474,2.0
+721,"2015-11-25,your state pension",10.0,29.0,0.344827586207,1.0
+722,"2015-11-03,state pension age in uk",10.0,24.0,0.416666666667,2.0
+723,"2015-11-07,pension age uk",10.0,61.0,0.16393442623,2.67213114754
+724,"2015-11-28,when will i get my state pension",10.0,19.0,0.526315789474,2.0
+725,"2015-11-15,when can i get my state pension",10.0,10.0,1.0,2.0
+726,"2015-11-17,how much state pension will i receive",10.0,14.0,0.714285714286,2.0
+727,"2015-11-01,pension age uk",10.0,68.0,0.147058823529,3.0
+728,"2015-11-24,when will i receive my state pension",10.0,15.0,0.666666666667,2.0
+729,"2015-11-18,uk state pension",10.0,67.0,0.149253731343,2.0
+730,"2015-11-19,what is my state pension age",10.0,16.0,0.625,2.0
+731,"2015-11-22,basic state pension",10.0,144.0,0.0694444444444,3.0
+732,"2015-11-10,uk pension age",10.0,25.0,0.4,2.0
+733,"2015-11-26,how much state pension will i get",10.0,24.0,0.416666666667,2.0
+734,"2015-11-09,state pension age in uk",10.0,15.0,0.666666666667,2.0
+735,"2015-11-11,uk state pension age",10.0,27.0,0.37037037037,2.0
+736,"2015-11-23,old age pension uk",10.0,47.0,0.212765957447,2.0
+737,"2015-11-30,when can i get my state pension",10.0,17.0,0.588235294118,2.0
+738,"2015-11-07,government pension",10.0,81.0,0.123456790123,2.0
+739,"2015-11-25,pension calculator gov",10.0,15.0,0.666666666667,1.0
+740,"2015-11-04,pension age uk",10.0,56.0,0.178571428571,3.0
+741,"2015-11-14,calculate state pension",10.0,13.0,0.769230769231,1.0
+742,"2015-11-21,old age pension uk",10.0,71.0,0.140845070423,2.0
+743,"2015-11-02,what is my state pension age",10.0,14.0,0.714285714286,2.0
+744,"2015-11-07,uk pension age",10.0,22.0,0.454545454545,2.0
+745,"2015-11-12,when will i receive my state pension",10.0,13.0,0.769230769231,2.0
+746,"2015-11-23,what will my state pension be",10.0,21.0,0.47619047619,2.0
+747,"2015-11-06,when will i get my pension",10.0,21.0,0.47619047619,2.0
+748,"2015-11-28,state pension age uk",10.0,21.0,0.47619047619,1.0
+749,"2015-11-11,what will my pension be",10.0,15.0,0.666666666667,1.0
+750,"2015-11-20,what is the basic state pension",10.0,64.0,0.15625,3.0
+751,"2015-11-24,state pension age uk",10.0,20.0,0.5,1.0
+752,"2015-11-14,when can i claim my state pension",10.0,18.0,0.555555555556,2.0
+753,"2015-11-28,pension age uk",10.0,77.0,0.12987012987,2.0
+754,"2015-11-15,when do i get my state pension",10.0,21.0,0.47619047619,2.0
+755,"2015-11-12,when can i claim my state pension",10.0,18.0,0.555555555556,2.0
+756,"2015-11-09,calculate state pension",10.0,13.0,0.769230769231,1.0
+757,"2015-11-13,government pension",10.0,88.0,0.113636363636,2.0
+758,"2015-11-23,calculate pension age",10.0,10.0,1.0,1.0
+759,"2015-11-04,uk state pension",10.0,92.0,0.108695652174,2.0
+760,"2015-11-05,state pension age in uk",10.0,20.0,0.5,2.0
+761,"2015-11-30,gov pension",10.0,42.0,0.238095238095,2.0
+762,"2015-11-18,my state pension",10.0,20.0,0.5,1.0
+763,"2015-11-20,how much pension will i get",10.0,25.0,0.4,2.0
+764,"2015-11-11,how much is the state pension",10.0,90.0,0.111111111111,4.0
+765,"2015-11-14,how much pension can i get",10.0,18.0,0.555555555556,1.0
+766,"2015-11-25,gov.uk/yourstatepension",9.0,55.0,0.163636363636,2.0
+767,"2015-11-18,when will i receive my state pension",9.0,13.0,0.692307692308,2.0
+768,"2015-11-06,new state pension calculator",9.0,23.0,0.391304347826,1.0
+769,"2015-11-18,how much state pension will i get",9.0,14.0,0.642857142857,2.0
+770,"2015-11-11,state pension calculator 2015",9.0,22.0,0.409090909091,2.0
+771,"2015-11-01,gov.uk/state-pension-statement",9.0,88.0,0.102272727273,2.65909090909
+772,"2015-11-17,my pension",9.0,12.0,0.75,1.0
+773,"2015-11-23,uk state pension age",9.0,23.0,0.391304347826,2.0
+774,"2015-11-01,when can i get my state pension",9.0,14.0,0.642857142857,2.0
+775,"2015-11-21,what will my pension be",9.0,13.0,0.692307692308,1.0
+776,"2015-11-15,when can i claim my state pension",9.0,16.0,0.5625,2.0
+777,"2015-11-13,how much pension will i get",9.0,28.0,0.321428571429,2.0
+778,"2015-11-24,uk state pension age",9.0,23.0,0.391304347826,2.0
+779,"2015-11-14,uk state pension",9.0,32.0,0.28125,2.0
+780,"2015-11-30,uk state pension",9.0,146.0,0.0616438356164,2.0
+781,"2015-11-23,state pension age in uk",9.0,14.0,0.642857142857,2.0
+782,"2015-11-16,what will my state pension be",9.0,15.0,0.6,2.0
+783,"2015-11-15,what will my state pension be",9.0,13.0,0.692307692308,2.0
+784,"2015-11-25,uk pension calculator",9.0,21.0,0.428571428571,1.0
+785,"2015-11-18,gov.uk/state-pension-statement",9.0,30.0,0.3,2.0
+786,"2015-11-21,uk pension age",9.0,33.0,0.272727272727,2.0
+787,"2015-11-20,calculate state pension",9.0,10.0,0.9,1.0
+788,"2015-11-03,state pension forecast calculator",9.0,11.0,0.818181818182,1.0
+789,"2015-11-23,calculate my state pension",9.0,12.0,0.75,1.0
+790,"2015-11-23,pension statement",9.0,80.0,0.1125,2.0
+791,"2015-11-29,pension age uk",9.0,52.0,0.173076923077,2.0
+792,"2015-11-18,how much state pension will i receive",9.0,22.0,0.409090909091,2.0
+793,"2015-11-12,state pension calculator 2015",9.0,14.0,0.642857142857,2.0
+794,"2015-11-11,gov pension",9.0,31.0,0.290322580645,2.0
+795,"2015-11-30,uk pension age",9.0,23.0,0.391304347826,2.0
+796,"2015-11-24,how much will my state pension be",9.0,12.0,0.75,2.0
+797,"2015-11-21,state pension uk",9.0,63.0,0.142857142857,3.0
+798,"2015-11-23,state pension statement",9.0,80.0,0.1125,2.0
+799,"2015-11-10,state pension date",9.0,10.0,0.9,1.0
+800,"2015-11-16,uk pension age",9.0,23.0,0.391304347826,2.0
+801,"2015-11-18,what is my state pension age",9.0,20.0,0.45,2.0
+802,"2015-11-11,state pension age in uk",9.0,14.0,0.642857142857,2.0
+803,"2015-11-11,when will i receive my state pension",9.0,16.0,0.5625,2.0
+804,"2015-11-06,my state pension",9.0,13.0,0.692307692308,1.0
+805,"2015-11-17,how much state pension will i get",9.0,17.0,0.529411764706,2.0
+806,"2015-11-03,when can i get my state pension",9.0,14.0,0.642857142857,2.0
+807,"2015-11-19,calculate state pension age",9.0,11.0,0.818181818182,1.0
+808,"2015-11-27,what is my state pension age",9.0,13.0,0.692307692308,2.0
+809,"2015-11-28,old age pension",9.0,51.0,0.176470588235,2.0
+810,"2015-11-29,my state pension",9.0,29.0,0.310344827586,1.0
+811,"2015-11-21,what is my state pension age",9.0,14.0,0.642857142857,2.0
+812,"2015-11-13,old age pension",9.0,76.0,0.118421052632,2.0
+813,"2015-11-23,state pension calculator 2015",9.0,13.0,0.692307692308,2.0
+814,"2015-11-19,how much pension will i get when i retire",9.0,10.0,0.9,1.0
+815,"2015-11-23,what pension will i get",9.0,11.0,0.818181818182,1.0
+816,"2015-11-26,uk state pension age",9.0,20.0,0.45,2.0
+817,"2015-11-08,when can i get my state pension",9.0,18.0,0.5,2.0
+818,"2015-11-29,will i get a state pension",9.0,11.0,0.818181818182,1.0
+819,"2015-11-23,women's state pension age calculator",9.0,12.0,0.75,1.0
+820,"2015-11-11,uk state pension",9.0,74.0,0.121621621622,2.0
+821,"2015-11-25,calculate my state pension",9.0,11.0,0.818181818182,1.0
+822,"2015-11-15,when will i get my state pension",9.0,25.0,0.36,2.0
+823,"2015-11-24,what is my state pension age",9.0,15.0,0.6,2.0
+824,"2015-11-10,new state pension calculator",9.0,20.0,0.45,1.0
+825,"2015-11-03,uk state pension",9.0,76.0,0.118421052632,2.0
+826,"2015-11-06,when do i get my state pension",9.0,10.0,0.9,2.0
+827,"2015-11-29,how much will my state pension be",9.0,13.0,0.692307692308,2.0
+828,"2015-11-14,my pension",9.0,16.0,0.5625,1.0
+829,"2015-11-25,dwp pension calculator",9.0,10.0,0.9,1.0
+830,"2015-11-28,uk state pension",9.0,55.0,0.163636363636,2.0
+831,"2015-11-09,when do i get my state pension",9.0,14.0,0.642857142857,2.0
+832,"2015-11-06,calculate state pension",9.0,10.0,0.9,1.0
+833,"2015-11-24,calculate pension age",8.0,8.0,1.0,1.0
+834,"2015-11-11,pensions calculator",8.0,17.0,0.470588235294,2.0
+835,"2015-11-02,state pension age in uk",8.0,20.0,0.4,2.0
+836,"2015-11-01,when can i claim my state pension",8.0,15.0,0.533333333333,2.0
+837,"2015-11-07,how much is the state pension",8.0,78.0,0.102564102564,4.0
+838,"2015-11-19,old age pension",8.0,46.0,0.173913043478,2.0
+839,"2015-11-02,pension age calculator 2015",8.0,10.0,0.8,1.0
+840,"2015-11-21,what age will i get my state pension",8.0,13.0,0.615384615385,2.0
+841,"2015-11-17,when do i get my state pension",8.0,13.0,0.615384615385,2.0
+842,"2015-11-19,when do i get my pension",8.0,18.0,0.444444444444,2.0
+843,"2015-11-05,state pension age uk",8.0,17.0,0.470588235294,1.0
+844,"2015-11-20,state pension uk",8.0,25.0,0.32,3.0
+845,"2015-11-11,old age pension",8.0,79.0,0.101265822785,2.0
+846,"2015-11-23,when can i claim my state pension",8.0,15.0,0.533333333333,2.0
+847,"2015-11-22,how much is my state pension",8.0,15.0,0.533333333333,2.0
+848,"2015-11-18,calculate state pension age",8.0,12.0,0.666666666667,1.0
+849,"2015-11-12,when can i get my state pension",8.0,15.0,0.533333333333,2.0
+850,"2015-11-06,uk state pension",8.0,50.0,0.16,2.0
+851,"2015-11-24,old age pension uk",8.0,42.0,0.190476190476,2.0
+852,"2015-11-30,pension statement",8.0,66.0,0.121212121212,2.0
+853,"2015-11-10,what will my state pension be",8.0,15.0,0.533333333333,2.0
+854,"2015-11-23,tax.service.gov.uk/checkmystatepension",8.0,39.0,0.205128205128,3.0
+855,"2015-11-01,when do i get my state pension",8.0,9.0,0.888888888889,2.0
+856,"2015-11-06,pension age calculator 2015",8.0,9.0,0.888888888889,1.0
+857,"2015-11-03,my state pension",8.0,13.0,0.615384615385,1.0
+858,"2015-11-03,what will my state pension be",8.0,13.0,0.615384615385,2.0
+859,"2015-11-14,state pension age uk",8.0,14.0,0.571428571429,1.0
+860,"2015-11-25,government pension calculator",8.0,9.0,0.888888888889,1.0
+861,"2015-11-22,gov pension",8.0,29.0,0.275862068966,2.0
+862,"2015-11-16,gov.uk/yourstatepension",8.0,42.0,0.190476190476,2.0
+863,"2015-11-20,government pension forecast",8.0,12.0,0.666666666667,2.0
+864,"2015-11-05,when can i claim my state pension",8.0,12.0,0.666666666667,2.0
+865,"2015-11-26,what is my state pension age",8.0,13.0,0.615384615385,2.0
+866,"2015-11-20,old age pension uk",8.0,32.0,0.25,2.0
+867,"2015-11-26,old age pension uk",8.0,55.0,0.145454545455,2.0
+868,"2015-11-21,state pension forecast calculator",8.0,10.0,0.8,1.0
+869,"2015-11-11,what will my state pension be",8.0,18.0,0.444444444444,2.0
+870,"2015-11-16,my state pension",8.0,22.0,0.363636363636,1.0
+871,"2015-11-26,when will i receive my state pension",8.0,13.0,0.615384615385,2.0
+872,"2015-11-05,when can i get my state pension",8.0,13.0,0.615384615385,2.0
+873,"2015-11-30,what is my state pension age",8.0,12.0,0.666666666667,2.0
+874,"2015-11-07,how much state pension will i receive",8.0,12.0,0.666666666667,2.0
+875,"2015-11-12,pension age uk",8.0,34.0,0.235294117647,3.0
+876,"2015-11-03,calculate state pension",8.0,14.0,0.571428571429,1.0
+877,"2015-11-25,when can i draw my state pension",8.0,13.0,0.615384615385,1.0
+878,"2015-11-18,when can i get my state pension",8.0,13.0,0.615384615385,2.0
+879,"2015-11-29,how much state pension will i get",8.0,22.0,0.363636363636,2.0
+880,"2015-11-24,old age pension",8.0,106.0,0.0754716981132,2.0
+881,"2015-11-17,gov.uk/yourstatepension",8.0,45.0,0.177777777778,2.0
+882,"2015-11-17,when can i claim my state pension",8.0,19.0,0.421052631579,2.0
+883,"2015-11-25,state pensions",8.0,120.0,0.0666666666667,4.0
+884,"2015-11-10,old age pension",8.0,72.0,0.111111111111,2.0
+885,"2015-11-18,state pension age in uk",8.0,11.0,0.727272727273,2.0
+886,"2015-11-29,state pension age uk",8.0,14.0,0.571428571429,1.0
+887,"2015-11-20,your state pension",8.0,19.0,0.421052631579,1.0
+888,"2015-11-24,what will my pension be",8.0,9.0,0.888888888889,1.0
+889,"2015-11-15,old age pension",8.0,74.0,0.108108108108,2.0
+890,"2015-11-05,how much will my state pension be",8.0,13.0,0.615384615385,2.0
+891,"2015-11-25,state pension calculator 2015",8.0,11.0,0.727272727273,2.0
+892,"2015-11-28,gov.uk/state-pension-statement",8.0,47.0,0.170212765957,2.0
+893,"2015-11-28,www.gov.uk/yourstatepension",8.0,24.0,0.333333333333,2.0
+894,"2015-11-05,dwp pension calculator",8.0,13.0,0.615384615385,1.0
+895,"2015-11-05,what age will i get my state pension",8.0,9.0,0.888888888889,2.0
+896,"2015-11-22,state pension age uk",8.0,13.0,0.615384615385,1.0
+897,"2015-11-11,what pension will i get",8.0,10.0,0.8,1.0
+898,"2015-11-02,calculate state pension age",8.0,10.0,0.8,1.0
+899,"2015-11-17,uk state pension",8.0,61.0,0.131147540984,2.0
+900,"2015-11-13,how much state pension will i receive",8.0,19.0,0.421052631579,2.0
+901,"2015-11-16,uk state pension",7.0,68.0,0.102941176471,2.0
+902,"2015-11-05,government pension age",7.0,11.0,0.636363636364,2.0
+903,"2015-11-09,when will i get my pension",7.0,11.0,0.636363636364,2.0
+904,"2015-11-02,uk state pension age",7.0,16.0,0.4375,2.0
+905,"2015-11-11,what age will i get my state pension",7.0,8.0,0.875,2.0
+906,"2015-11-05,uk state pension age",7.0,26.0,0.269230769231,2.0
+907,"2015-11-09,state pensions",7.0,60.0,0.116666666667,4.0
+908,"2015-11-12,hmrc state pension age",7.0,7.0,1.0,1.0
+909,"2015-11-27,my state pension",7.0,20.0,0.35,1.0
+910,"2015-11-04,what age will i get my state pension",7.0,11.0,0.636363636364,2.0
+911,"2015-11-13,how much will my state pension be",7.0,13.0,0.538461538462,2.0
+912,"2015-11-07,what age will i get my state pension",7.0,10.0,0.7,2.0
+913,"2015-11-13,uk state pension age",7.0,28.0,0.25,2.0
+914,"2015-11-24,dwp pension calculator",7.0,8.0,0.875,1.0
+915,"2015-11-26,gov.uk pensions",7.0,24.0,0.291666666667,2.0
+916,"2015-11-08,government pension",7.0,69.0,0.101449275362,2.0
+917,"2015-11-25,will i get a state pension",7.0,12.0,0.583333333333,1.0
+918,"2015-11-25,uk pensions",7.0,90.0,0.0777777777778,3.0
+919,"2015-11-22,uk state pension age",7.0,15.0,0.466666666667,2.0
+920,"2015-11-10,calculate state pension",7.0,9.0,0.777777777778,1.0
+921,"2015-11-02,how much is the state pension",7.0,56.0,0.125,4.0
+922,"2015-11-20,www.gov.uk/yourstatepension",7.0,37.0,0.189189189189,2.0
+923,"2015-11-28,how much will my state pension be",7.0,11.0,0.636363636364,2.0
+924,"2015-11-16,old age pension uk",7.0,29.0,0.241379310345,2.0
+925,"2015-11-17,pension age calculator 2015",7.0,9.0,0.777777777778,1.0
+926,"2015-11-13,what is my state pension age",7.0,15.0,0.466666666667,2.0
+927,"2015-11-04,my state pension",7.0,9.0,0.777777777778,1.0
+928,"2015-11-30,uk state pension age",7.0,17.0,0.411764705882,2.0
+929,"2015-11-16,pension age uk",7.0,35.0,0.2,3.0
+930,"2015-11-14,when can i get my state pension",7.0,16.0,0.4375,2.0
+931,"2015-11-19,state pensions",7.0,42.0,0.166666666667,4.0
+932,"2015-11-04,when will i get my pension",7.0,10.0,0.7,2.0
+933,"2015-11-20,uk state pension age",7.0,21.0,0.333333333333,2.0
+934,"2015-11-24,pension calculator gov",7.0,7.0,1.0,1.0
+935,"2015-11-04,uk pension calculator",7.0,23.0,0.304347826087,1.0
+936,"2015-11-30,pension calculator gov",7.0,12.0,0.583333333333,1.0
+937,"2015-11-11,uk state pension calculator",7.0,7.0,1.0,1.0
+938,"2015-11-26,when can i get my pension",7.0,16.0,0.4375,2.0
+939,"2015-11-04,state pension age in uk",7.0,11.0,0.636363636364,2.0
+940,"2015-11-21,when can i draw my state pension",7.0,12.0,0.583333333333,1.0
+941,"2015-11-05,when will i get state pension",7.0,10.0,0.7,2.0
+942,"2015-11-17,old age pension",7.0,64.0,0.109375,2.0
+943,"2015-11-28,what age will i get my state pension",7.0,9.0,0.777777777778,2.0
+944,"2015-11-19,what will my state pension be",7.0,13.0,0.538461538462,2.0
+945,"2015-11-01,how much state pension will i get",7.0,18.0,0.388888888889,2.0
+946,"2015-11-11,pension age uk",7.0,55.0,0.127272727273,3.0
+947,"2015-11-10,calculate state pension age",7.0,8.0,0.875,1.0
+948,"2015-11-04,pensions calculator",7.0,25.0,0.28,2.0
+949,"2015-11-03,pension age calculator 2015",7.0,9.0,0.777777777778,1.0
+950,"2015-11-30,old age pension",7.0,69.0,0.101449275362,2.0
+951,"2015-11-23,gov.uk/state-pension-statement",7.0,26.0,0.269230769231,2.0
+952,"2015-11-03,uk pension age",7.0,18.0,0.388888888889,2.0
+953,"2015-11-17,when can i get my state pension",7.0,12.0,0.583333333333,2.0
+954,"2015-11-21,how is state pension calculated",7.0,12.0,0.583333333333,1.0
+955,"2015-11-26,dwp pension calculator",7.0,8.0,0.875,1.0
+956,"2015-11-18,pensions calculator",7.0,22.0,0.318181818182,2.0
+957,"2015-11-09,state pension calculator in uk",7.0,9.0,0.777777777778,1.0
+958,"2015-11-02,gov.uk/state-pension-statement",7.0,67.0,0.10447761194,2.0
+959,"2015-11-17,how much is the state pension",7.0,55.0,0.127272727273,4.0
+960,"2015-11-27,how much state pension will i get",7.0,12.0,0.583333333333,2.0
+961,"2015-11-11,what state pension will i get",7.0,11.0,0.636363636364,1.0
+962,"2015-11-10,state pension age in uk",7.0,19.0,0.368421052632,2.0
+963,"2015-11-16,how much is the state pension",7.0,38.0,0.184210526316,4.0
+964,"2015-11-17,uk state pension age",7.0,17.0,0.411764705882,2.0
+965,"2015-11-18,state pension calculator 2015",7.0,19.0,0.368421052632,2.0
+966,"2015-11-25,pension calculator uk",7.0,24.0,0.291666666667,2.0
+967,"2015-11-09,www.gov.uk/state-pension-statement",7.0,57.0,0.122807017544,2.0
+968,"2015-11-06,state pension age uk",7.0,10.0,0.7,1.0
+969,"2015-11-26,state pensions",7.0,95.0,0.0736842105263,4.0
+970,"2015-11-03,uk state pension age",7.0,20.0,0.35,2.0
+971,"2015-11-26,pension calculation",7.0,11.0,0.636363636364,1.0
+972,"2015-11-27,when can i get my state pension",7.0,10.0,0.7,2.0
+973,"2015-11-11,my state pension",7.0,16.0,0.4375,1.0
+974,"2015-11-23,pension age calculator 2015",7.0,9.0,0.777777777778,1.0
+975,"2015-11-27,tax.service.gov.uk/checkmystatepension",7.0,57.0,0.122807017544,3.0
+976,"2015-11-23,what is my pension age",7.0,10.0,0.7,2.0
+977,"2015-11-06,old age pension",7.0,53.0,0.132075471698,2.0
+978,"2015-11-05,when will i receive my state pension",7.0,9.0,0.777777777778,2.0
+979,"2015-11-19,uk pension age",7.0,13.0,0.538461538462,2.0
+980,"2015-11-04,old age pension",7.0,36.0,0.194444444444,2.0
+981,"2015-11-16,state pension calculator 2015",7.0,15.0,0.466666666667,2.0
+982,"2015-11-25,my state pension forecast",7.0,24.0,0.291666666667,2.0
+983,"2015-11-12,pension age calculator 2015",7.0,8.0,0.875,1.0
+984,"2015-11-30,what age will i get my state pension",7.0,11.0,0.636363636364,2.0
+985,"2015-11-21,gov.uk/yourstatepension",7.0,19.0,0.368421052632,2.0
+986,"2015-11-21,state pensions",7.0,125.0,0.056,4.0
+987,"2015-11-23,when can i draw my state pension",7.0,8.0,0.875,1.0
+988,"2015-11-23,state pensions",7.0,50.0,0.14,4.0
+989,"2015-11-13,pension age uk",7.0,25.0,0.28,3.0
+990,"2015-11-21,calculate my pension",7.0,9.0,0.777777777778,1.0
+991,"2015-11-14,uk pension age",7.0,19.0,0.368421052632,2.0
+992,"2015-11-02,when can i claim my pension",7.0,9.0,0.777777777778,2.0
+993,"2015-11-11,government pensions",7.0,25.0,0.28,2.0
+994,"2015-11-29,old age pension uk",7.0,23.0,0.304347826087,2.0
+995,"2015-11-30,state pension age uk",7.0,13.0,0.538461538462,1.0
+996,"2015-11-05,pension age calculator 2015",7.0,8.0,0.875,1.0
+997,"2015-11-25,when do i get state pension",7.0,11.0,0.636363636364,2.0
+998,"2015-11-03,how much will my state pension be",7.0,9.0,0.777777777778,2.0
+999,"2015-11-08,uk pension age",7.0,11.0,0.636363636364,2.0

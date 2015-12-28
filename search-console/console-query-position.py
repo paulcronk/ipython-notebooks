@@ -34,7 +34,7 @@ Sample usage:
 
 import argparse
 import sys
-import pandas
+import pandas as pd
 from googleapiclient import sample_tools
 
 # Declare command-line flags.
@@ -79,11 +79,9 @@ def main(argv):
               'expression': url
           }]
       }],
-      'rowLimit': 100
+      'rowLimit': 1000
   }
   response = execute_request(service, flags.property_uri, request)
-  #print_table(response, 'Workplace Pensions')
-  #save_file(response)
   new_file(response)
 
 
@@ -99,32 +97,6 @@ def execute_request(service, property_uri, request):
   return service.searchanalytics().query(
       siteUrl=property_uri, body=request).execute()
 
-
-def print_table(response, title):
-  """Prints out a response table.
-  Each row contains key(s), clicks, impressions, CTR, and average position.
-  Args:
-    response: The server response to be printed as a table.
-    title: The title of the table.
-  """
-  print title + ':'
-
-  if 'rows' not in response:
-    print 'Empty response'
-    return
-
-  rows = response['rows']
-  row_format = '{:<20}' + '{:>20}' * 4
-  print row_format.format('Keys', 'Clicks', 'Impressions', 'CTR', 'Position')
-  for row in rows:
-    keys = ''
-    # Keys are returned only if one or more dimensions are requested.
-    if 'keys' in row:
-      keys = u','.join(row['keys']).encode('utf-8')
-    print row_format.format(
-        keys, row['clicks'], row['impressions'], row['ctr'], row['position'])
-
-
 def new_file(response):
     new_output = []
     if 'rows' not in response:
@@ -132,31 +104,16 @@ def new_file(response):
       return
     rows = response['rows']
     for row in rows:
+        temp_list = []
         if 'keys' in row:
             keys = u','.join(row['keys']).encode('utf-8')
-        #print keys","row['clicks']","row['impressions']","row['ctr']","row['position']
-        print '{0},{1},{2},{3},{4}'.format(keys,row['clicks'],row['impressions'],row['ctr'],row['position'])
+        # print '{0},{1},{2},{3},{4}'.format(keys,row['clicks'],row['impressions'],row['ctr'],row['position'])
+        temp_list = (keys,row['clicks'],row['impressions'],row['ctr'],row['position'])
+        new_output.append(temp_list)
     print new_output
-    #print row ['clicks'], row['impressions'], row['ctr'], row['position']
-    #new_output = pandas.DataFrame.from_dict(response, orient = 'columns')
-    #new_output.to_csv('output.csv', sep=',')
-    #print new_output
+    new_output = pd.DataFrame(new_output)
+    new_output.columns = ['date,query', 'clicks', 'impressions', 'ctr', 'position']
+    new_output.to_csv('output.csv', sep=',')
 
-"""
-def save_file(response):
-    rows = response['rows']
-    row_format = '{:<20}' + '{:>20}' * 4
-    #print row_format.format('Keys', 'Clicks', 'Impressions', 'CTR', 'Position')
-    for row in rows:
-      keys = ''
-      # Keys are returned only if one or more dimensions are requested.
-      if 'keys' in row:
-        keys = u','.join(row['keys']).encode('utf-8')
-      row_response = row_format.format(
-          keys, row['clicks'], row['impressions'], row['ctr'], row['position'])
-
-    output = pandas.DataFrame(row_response,index=None)
-    output.to_csv('output2.csv', sep=',')
-"""
 if __name__ == '__main__':
   main(sys.argv)
