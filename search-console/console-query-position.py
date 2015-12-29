@@ -51,9 +51,9 @@ argparser.add_argument('end_date', type=str,
 #argparser.add_argument('keyword', type=str,
 #                       help=('keyword being searched for.'))
 
-keyword = raw_input('Enter the search term: ')
+keyword = raw_input('Enter the search term (or leave it blank for all searches): ')
 
-url = raw_input('Enter the full URL of the page: ')
+url = raw_input('Enter the full URL of the page (or a partial match): ')
 
 #save_table = []
 
@@ -64,11 +64,12 @@ def main(argv):
 
 
 
-  # Get the top 1000 queries in India, sorted by click count, descending.
+  # For a given landing page, which search terms bring traffic to that page (impressions, clicks and CTR)
+  # and what position does the page appear? How does this change over time?
   request = {
       'startDate': flags.start_date,
       'endDate': flags.end_date,
-      'dimensions': ['date','query'],
+      'dimensions': ['date','query','page'],
       'dimensionFilterGroups': [{
           'filters': [{
               'dimension': 'query',
@@ -76,10 +77,11 @@ def main(argv):
               'expression': keyword
              }, {
               'dimension': 'page',
+              'operator': 'contains',
               'expression': url
           }]
       }],
-      'rowLimit': 1000
+      'rowLimit': 5000
   }
   response = execute_request(service, flags.property_uri, request)
   new_file(response)
